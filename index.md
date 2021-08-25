@@ -2,41 +2,72 @@
 layout: page
 ---
 
-# Reproducible Science is good. Replicated Science is better.
+[# Reproducible Science is good. Replicated Science is better.]::
 
-# Bla Bla 
+<!---
+# Bla Bla
+-->
 
-ReScience C is a *platinum open-access* peer-reviewed journal that targets
-computational research and encourages the explicit [replication](faq) of
-already published research, promoting new and open-source implementations in
-order to ensure that the original research is [reproducible](faq).
-You can read about the ideas behind ReScience C in the article
-*[Sustainable computational science: the ReScience initiative](https://doi.org/10.7717/peerj-cs.142)*
+I’m a researcher in medical imaging at [CNRS](https://www.cnrs.fr/fr/page-daccueil) and the Centre de Résonance Magnétique des Systèmes Biologiques (Bordeaux, France).
 
-To achieve this goal, the whole publishing chain is radically different from
-other traditional scientific journals. ReScience C lives on
-[GitHub](https://github.com/valeryozenne/) where each new implementation of a
-computational study is made available together with comments, explanations and
-tests. Each submission takes the form of an issue that is publicly reviewed and
-tested in order to guarantee that any researcher can re-use it. If you ever
-replicated computational results (or failed at) from the literature in your
-research, ReScience C is the perfect place to publish your new implementation.
 
+Keywords: Magnetic Resonance Imaging, Thermometry, Thermo-Ablation, Real-time processing, Medical device.
+
+<!---
 ReScience C is collaborative and open by design. Everything can be forked and
 modified. Don't hesitate to [write a submission](write), [join us](faq) and
 to [become a reviewer](https://valeryozenne.github.io/board/).
+-->
 
-<br/>
 
 
-# Latest publications
+# Latest articles
 
 {% bibliography --max 3 --sort %}
-<br>
+
+
+# Seletected articles
+
+{% bibliography --query @*[pages=116236] %}
+{% bibliography --query @*[volume=77]  %}
+
+
+# News
+
+
+<ul>
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% if currentdate != date %}
+    <li id="y{{currentdate}}">{{ currentdate }}</li>
+    {% assign date = currentdate %} 
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<!---
+# News
+
+
+<ul class="post-list">
+  {% for post in site.posts %}
+  {% if post.type == "news" %}
+  <li>
+    <h2>{{ post.title }}
+    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+    {{ post.content }}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+-->
+
+
 
 # Latest News
 <ul class="post-list">
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts limit:2 %}
   {% if post.type == "news" %}
   <li>
     <h4>{{ post.title }}

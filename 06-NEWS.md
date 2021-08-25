@@ -8,7 +8,7 @@ permalink: /news/
 # News
 
 <ul class="post-list">
-  {% for post in site.posts limit:3 %}
+  {% for post in site.posts limit:5 %}
   {% if post.type == "news" %}
   <li>
     <h2>{{ post.title }}
@@ -21,15 +21,3 @@ permalink: /news/
 
 
 
-# Archives
-
-<ul>
-{% for post in site.posts  %}
-  {%if post.type == "news" %}
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-  • 
-  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span><br/>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>

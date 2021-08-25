@@ -1,12 +1,12 @@
 # Site settings
-title: ReScience C
+title: Valery Ozenne
 # email: your-email@domain.com
 description: Reproducible Science is good.<br/>
              Replicated Science is better.
 baseurl: ""                           # the subpath of your site, e.g. /blog/
 url:     "https://valeryozenne.github.io" # the base hostname & protocol for your site
 twitter_username: ReScienceEds
-github_username:  ReScience
+github_username:  valeryozenne
 
 # Build settings
 markdown: kramdown
@@ -28,7 +28,7 @@ scholar:
   # group_order: ascending
 
   source: ./_bibliography
-  bibliography: published.bib
+  bibliography: google_scholar_export_ready.bib
   bibliography_template: bib
 
   replace_strings: true

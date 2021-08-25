@@ -3,7 +3,7 @@
   <div class="wrapper">
 
     <div class="site-title">
-      <a href="{{site.url}}">ReScience C</a>
+      <a href="{{site.url}}">Valéry Ozenne</a>
     </div>    
 
     <nav class="site-nav">
@@ -16,10 +16,13 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}{% if page.menutitle %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menutitle }}</a>{% endif %}{% endfor %}
+        {% for page in site.pages %}{% if page.menutitle %}{% if page.menutitle == "GITHUB" %}<a class="page-link" href="https://github.com/valeryozenne">{{ page.menutitle }}</a>{% elsif page.menutitle == "ORCID" %}<a class="page-link" href="https://orcid.org/0000-0002-7883-756X">{{ page.menutitle }}</a>{% else %} <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menutitle }}</a>{% endif %}{% endif %}{% endfor %}
       </div>
     </nav>
 
   </div>
 
 </header>
+
+
+
