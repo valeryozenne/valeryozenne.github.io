@@ -4,6 +4,8 @@ layout: page
 
 # Reproducible Science is good. Replicated Science is better.
 
+# Bla Bla 
+
 ReScience C is a *platinum open-access* peer-reviewed journal that targets
 computational research and encourages the explicit [replication](faq) of
 already published research, promoting new and open-source implementations in
