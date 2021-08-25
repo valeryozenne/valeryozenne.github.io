@@ -459,12 +459,12 @@ strong {
 /* ReScience custom settings */
 /*****************************/
 h1, h2, h3, h4, h5, h6 {
-  color: #ce232b;
+  color: #2255bb;
   padding-top: 1em;
   font-weight: 500; }
 
 .site-header strong {
-  color: #ce232b;
+  color: #2255bb;
   font-weight: 600; }
 
 a:hover {
@@ -476,9 +476,9 @@ a:hover {
 
 .site-title a {
   /* padding: .5em .75em .25em 1em;
-  background-color:  #ce232b;
+  background-color:  #2255bb;
   color:  white; */
-  color: #ce232b;
+  color: #2255bb;
   /*font-size: 80%;*/
   font-weight: 100;
   margin: auto;
@@ -492,12 +492,12 @@ a:hover {
 
 .site-nav a {
   font-size: 14px;
-  color: #ce232b;
+  color: #2255bb;
   font-weight: 400; }
 
 .site-nav a:hover {
   text-decoration: none;
-  color: #ce232b; }
+  color: #2255bb; }
 
 .post-content h2 {
   font-size: 20px; }
@@ -517,7 +517,7 @@ a:hover {
 
 a.bibtag {
   padding: .25em .5em .1em .5em;
-  background-color: #ce232b;
+  background-color: #2255bb;
   color: white;
   border-radius: 2px; }
 
@@ -585,7 +585,7 @@ div.bib-entry-highlight {
   width: 100%;
   padding: 1.5em;
   color: white;
-  background-color: #ce232b; }
+  background-color: #2255bb; }
 
 img.ten-years-challenge {
   /*    float: right;
