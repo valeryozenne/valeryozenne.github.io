@@ -32,12 +32,12 @@ Avenue du Haut Lévêque
 
 
 2009-2012
-:   **Postdoc, Interventional MRI**; Awesome University 
+:   **Postdoc, Interventional MRI**; Bordeaux University 
 
     *Project title: *
 
 2009-2012
-:   **PhD, NMR Spectroscopy**; Awesome University 
+:   **PhD, NMR Spectroscopy**; Grenoble University 
 
     *Thesis title: *
 
@@ -50,13 +50,19 @@ Avenue du Haut Lévêque
 
 # Post-doc students
 
+Maxime Yon (2019-2021)
+
 # PhD students
+
+Pierre Cabanis (2021-2024)
 
 # Interns
 
+Joseph Bregat (2022, INP, Bordeaux), Pierre Cabanis (2021, INP, Bordeaux), Thibaut Troadec (INP, Bordeaux)
+
 # Ongoing projects
 
-# Software
+# Softwares
 
 # Bibliography
 
