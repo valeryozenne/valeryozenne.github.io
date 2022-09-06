@@ -6,7 +6,13 @@ permalink: /resume/
 
 I’m a researcher in medical imaging at [CNRS](https://www.cnrs.fr/fr/page-daccueil) and the Centre de Résonance Magnétique des Systèmes Biologiques (Bordeaux, France).
 
-Mes travaux portee sur le développement de nouvelles méthodes d’imagerie, permettant de suivre en temps-réel la destruction des tissus pathologiques lors de procédures interventionnelles sous IRM. Je m'intéresse particulièrement aux procédures de thermoablation qui consiste à délivrer localement de l'énergie via des dispositifs médicaux mini-invasifs (laser, radiofréquence, micro-onde) ou non-invasive (ultrason de haute intensité).
+Mes travaux portent sur le développement de nouvelles méthodes d’imagerie, permettant de suivre en temps réel le bon déroulement de procédures interventionnelles (ou intervention médicale) sous IRM. 
+
+Je m'intéresse particulièrement aux suivis des procédures de thermoablation qui vise à détruire des tissus pathologiques via un dépot local énergie. Différents dispositifs médicaux mini-invasifs tel que le laser, la radiofréquence ou les micro-ondes ou des dispositifs non-invasive comme les ultrasons de haute intensité peuvent être utilisés. 
+
+Les cibles sont toujours un tissu pathologique, mais varie suivant l'application thérapeutique. Les projets s'articule principalement autour de l'oncologie pour le traitement des tumeurs cancéreuses et la cardialogie pour l'ablation des tissus cardiaques arrythmogènes responsables des arrythmies cardiaques. 
+
+
 
 Direct access to [bibliography](#bibliography) ([Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints), [Books](#books), [Journal](#Journal), [Chapters](#chapters), [Conferences](#conferences)).
 

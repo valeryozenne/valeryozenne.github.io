@@ -22,7 +22,7 @@ permalink: /projects/
   Forum: [discourse.slicer](https://gadgetron.discourse.group/)
 
 * [3DSlicer](https://www.slicer.org/)  
-  Medical Imaging - Python, C/C++
+  Medical Imaging - Python, C/C++  
   Forum: [discourse.slicer](https://discourse.slicer.org/)
 
 * [MRtrix3](https://www.mrtrix.org/)  
@@ -35,7 +35,7 @@ permalink: /projects/
 
 * [Dicomifier](https://github.com/lamyj/dicomifier)  
   Medical Imaging - C/C++  
-  Forum: [readthedocs.dicomifer](https://dicomifier.readthedocs.io/en/latest/)
+  Documentation: [readthedocs.dicomifer](https://dicomifier.readthedocs.io/en/latest/)
 
 
   
