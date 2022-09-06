@@ -10,6 +10,7 @@ layout: page
 
 I’m a researcher in medical imaging at [CNRS](https://www.cnrs.fr/fr/page-daccueil) and the Centre de Résonance Magnétique des Systèmes Biologiques (Bordeaux, France).
 
+Mes travaux portee sur le développement de nouvelles méthodes d’imagerie, permettant de suivre en temps-réel la destruction des tissus pathologiques lors de procédures interventionnelles sous IRM. Je m'intéresse particulièrement aux procédures de thermoablation qui consiste à délivrer localement de l'énergie via des dispositifs médicaux mini-invasifs (laser, radiofréquence, micro-onde) ou non-invasive (ultrason de haute intensité).
 
 Keywords: Magnetic Resonance Imaging, Thermometry, Thermo-Ablation, Real-time processing, Medical device.
 
