@@ -10,7 +10,11 @@ layout: page
 
 I’m a researcher in medical imaging at [CNRS](https://www.cnrs.fr/fr/page-daccueil) and the Centre de Résonance Magnétique des Systèmes Biologiques (Bordeaux, France).
 
-Mes travaux portee sur le développement de nouvelles méthodes d’imagerie, permettant de suivre en temps-réel la destruction des tissus pathologiques lors de procédures interventionnelles sous IRM. Je m'intéresse particulièrement aux procédures de thermoablation qui consiste à délivrer localement de l'énergie via des dispositifs médicaux mini-invasifs (laser, radiofréquence, micro-onde) ou non-invasive (ultrason de haute intensité).
+Mes travaux portent sur le développement de nouvelles méthodes d’imagerie, permettant de suivre en temps réel le bon déroulement de procédures interventionnelles (ou intervention médicale) sous IRM. 
+
+Je m'intéresse particulièrement au suivi de procédures de thermoablation. Ces procédures visent à détruire des tissus pathologiques via un dépot énergie localisé. Différents dispositifs médicaux mini-invasifs tel que le laser, la radiofréquence ou les micro-ondes ou des dispositifs non-invasifs comme les ultrasons de haute intensité peuvent être utilisés. 
+
+Deux thérapies sont principalement concernées: l'oncologie pour le traitement des tumeurs cancéreuses et la cardialogie pour l'ablation des tissus cardiaques arrythmogènes responsables des arrythmies cardiaques. 
 
 Keywords: Magnetic Resonance Imaging, Thermometry, Thermo-Ablation, Real-time processing, Medical device.
 
@@ -24,7 +28,7 @@ to [become a reviewer](https://valeryozenne.github.io/board/).
 
 # Latest articles
 
-{% bibliography --max 3 --sort %}
+{% bibliography --max 4 --sort %}
 
 
 # Seletected articles

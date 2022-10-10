@@ -8,13 +8,13 @@ I’m a researcher in medical imaging at [CNRS](https://www.cnrs.fr/fr/page-dacc
 
 Mes travaux portent sur le développement de nouvelles méthodes d’imagerie, permettant de suivre en temps réel le bon déroulement de procédures interventionnelles (ou intervention médicale) sous IRM. 
 
-Je m'intéresse particulièrement aux suivis des procédures de thermoablation qui vise à détruire des tissus pathologiques via un dépot local énergie. Différents dispositifs médicaux mini-invasifs tel que le laser, la radiofréquence ou les micro-ondes ou des dispositifs non-invasive comme les ultrasons de haute intensité peuvent être utilisés. 
+Je m'intéresse particulièrement au suivi de procédures de thermoablation. Ces procédures visent à détruire des tissus pathologiques via un dépot énergie localisé. Différents dispositifs médicaux mini-invasifs tel que le laser, la radiofréquence ou les micro-ondes ou des dispositifs non-invasifs comme les ultrasons de haute intensité peuvent être utilisés. 
 
-Les cibles sont toujours un tissu pathologique, mais varie suivant l'application thérapeutique. Les projets s'articule principalement autour de l'oncologie pour le traitement des tumeurs cancéreuses et la cardialogie pour l'ablation des tissus cardiaques arrythmogènes responsables des arrythmies cardiaques. 
+Deux thérapies sont principalement concernées: l'oncologie pour le traitement des tumeurs cancéreuses et la cardialogie pour l'ablation des tissus cardiaques arrythmogènes responsables des arrythmies cardiaques. 
 
 
 
-Direct access to [bibliography](#bibliography) ([Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints), [Books](#books), [Journal](#Journal), [Chapters](#chapters), [Conferences](#conferences)).
+Direct access to [bibliography](#bibliography) ([GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints), [Books](#books), [Journal](#Journal), [Chapters](#chapters), [Conferences](#conferences)).
 
 Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, Scientific Computation.
 
