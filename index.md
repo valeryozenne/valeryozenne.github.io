@@ -30,12 +30,11 @@ to [become a reviewer](https://valeryozenne.github.io/board/).
 
 {% bibliography --max 4 --sort %}
 
-
 # Seletected articles
 
+{% bibliography --query @*[pages=2194595] %}
 {% bibliography --query @*[pages=116236] %}
 {% bibliography --query @*[volume=77]  %}
-
 
 # News
 
