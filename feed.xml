@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valery Ozenne</title>
+    <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
+    <link>https://valeryozenne.github.io/</link>
+    <atom:link href="https://valeryozenne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 17 Jul 2023 13:26:47 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2023 13:26:47 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Webiste is still working</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 Aug 2022 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2022/08/31/Website-is-still-working.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2022/08/31/Website-is-still-working.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Pierre Cabanis starts his PhD under my supervision&quot;</title>
+        <description>
+</description>
+        <pubDate>Fri, 01 Oct 2021 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2021/10/01/Pierre_Phd.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2021/10/01/Pierre_Phd.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Webiste is under construction</title>
+        <description>
+</description>
+        <pubDate>Wed, 25 Aug 2021 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2021/08/25/Website-under-construction.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2021/08/25/Website-under-construction.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+  </channel>
+</rss>
