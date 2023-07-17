@@ -108,9 +108,12 @@ Pierre Cabanis (2021-2024)
 
 # Interns
 
-Joseph Bregat (2022, INP, Bordeaux),  
+Margaux Nussbaumer (2023, IMT Atlantique, Brest),
+Nino Avetikovi (2023, Phelma, Grenoble),
+Joseph Bregeat (2022, INP, Bordeaux),  
 Pierre Cabanis (2021, INP, Bordeaux),  
-Thibaut Troadec (20XX, INP, Bordeaux),
+Lea Pfeiffer (2019, INP, Bordeaux)
+Thibaut Troadec (2016, INP, Bordeaux),
 
 # GitHub 
 
