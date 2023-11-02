@@ -1,7 +1,7 @@
 ---
 layout: page
 menutitle: ORCID
-permalink: /github/
+permalink: /orcid/
 ---
 
 # Lala ORCID

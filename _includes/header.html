@@ -16,7 +16,7 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}{% if page.menutitle %}{% if page.menutitle == "GITHUB" %}<a class="page-link" href="https://github.com/valeryozenne">{{ page.menutitle }}</a>{% elsif page.menutitle == "ORCID" %}<a class="page-link" href="https://orcid.org/0000-0002-7883-756X">{{ page.menutitle }}</a>{% else %} <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menutitle }}</a>{% endif %}{% endif %}{% endfor %}
+        {% for page in site.pages %}{% if page.menutitle %}{% if page.menutitle == "GITHUB" %}<a class="page-link" href="https://github.com/valeryozenne">{{ page.menutitle }}</a>{% elsif page.menutitle == "ORCID" %}<a class="page-link" href="https://orcid.org/0000-0002-7883-756X">{{ page.menutitle }}</a>{% elsif page.menutitle == "TWITTER" %}<a class="page-link" href="https://twitter.com/CNRS">{{ page.menutitle }}</a>{% else %} <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.menutitle }}</a>{% endif %}{% endif %}{% endfor %}
       </div>
     </nav>
 

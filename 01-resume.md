@@ -28,22 +28,20 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
   146 rue Léo Saignat,   
   Bâtiment 4A – Zone Nord,  
   33076 Bordeaux  
-  **Email**: lala  dot lili  at bordeaux dot fr
+  **Email**: prenom  point nom at u-bordeaux point fr
   </small>
-
-
 
 
 
 ## Alternative office
 
-* [LIRYC - L'Institut de Rythmologie et Modélisation Cardiaque](https://www.ihu-liryc.fr/en/) 
+* [LIRYC - L'institut des maladies du rythme cardiaque](https://www.ihu-liryc.fr/en/) 
   [LIRYC - The Electrophysiology and Heart Modelling Institute](https://www.ihu-liryc.fr/fr/)  
   <small>
   [Entrée Hôpital Xavier Arnozan](https://www.chu-bordeaux.fr/CHU-de-Bordeaux/H%C3%B4pitaux-et-sites-du-CHU/Groupe-hospitalier-Sud/H%C3%B4pital-Xavier-Arnozan/)
   Avenue du Haut Lévêque,   
   33600 Pessac
-  **Email**: lala  dot lili  at bordeaux dot fr
+  **Email**: prenom point nom at u-bordeaux point fr
   </small>
 
 
@@ -108,18 +106,15 @@ Pierre Cabanis (2021-2024)
 
 # Interns
 
-Margaux Nussbaumer (2023, IMT Atlantique, Brest),
-Nino Avetikovi (2023, Phelma, Grenoble),
-Joseph Bregeat (2022, INP, Bordeaux),  
-Pierre Cabanis (2021, INP, Bordeaux),  
-Lea Pfeiffer (2019, INP, Bordeaux)
-Thibaut Troadec (2016, INP, Bordeaux),
+Margaux Nussbaumer (2023, IMT Atlantique, Brest),  
+Nino Avetikovi (2023, Phelma, Grenoble),  
+Joseph Bregeat (2022, ENSEIRB-MATMECA , Bordeaux),  
+Pierre Cabanis (2021, ENSEIRB-MATMECA , Bordeaux),  
+Léa Pfeiffer (2019, ENSEIRB-MATMECA , Bordeaux),  
+Alexis Vaussy (2015-2016, Télécom Physique Strasbourg, Strasbourg),  
+Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),  
 
 # GitHub 
-
-
-
-
 
 # Bibliography 
 
