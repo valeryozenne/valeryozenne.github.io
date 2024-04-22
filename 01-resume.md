@@ -106,13 +106,13 @@ Maxime Yon (2019-2021)
 
 # PhD students
 
-Eber Dantas (2024-2024)
+Eber Dantas (2024-2024),
 Pierre Cabanis (2021-2024)
 
 # Interns
 
-Rebecca-Lafont (2024, Phelma, Grenoble)
-Elodie Kopp (2024, Strasbourg)
+Rebecca-Lafont (2024, Phelma, Grenoble),
+Elodie Kopp (2024, Strasbourg),
 Margaux Nussbaumer (2023, IMT Atlantique, Brest),  
 Nino Avetikovi (2023, Phelma, Grenoble),  
 Joseph Bregeat (2022, ENSEIRB-MATMECA , Bordeaux),  
