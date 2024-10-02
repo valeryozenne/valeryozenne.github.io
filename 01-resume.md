@@ -121,10 +121,6 @@ Léa Pfeiffer (2019, ENSEIRB-MATMECA , Bordeaux),
 Alexis Vaussy (2015-2016, Télécom Physique Strasbourg, Strasbourg),  
 Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),  
 
-
-
-
-
 # Bibliography
 
 <!---
