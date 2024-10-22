@@ -5,14 +5,30 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>https://valeryozenne.github.io/</link>
     <atom:link href="https://valeryozenne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Oct 2024 12:10:43 +0200</pubDate>
-    <lastBuildDate>Wed, 02 Oct 2024 12:10:43 +0200</lastBuildDate>
+    <pubDate>Tue, 22 Oct 2024 10:48:50 +0200</pubDate>
+    <lastBuildDate>Tue, 22 Oct 2024 10:48:50 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Application is now opened for a master position in MRI and neuroscience&quot;</title>
+        <description>&lt;p&gt;L’offre détaillée est accessible à ce &lt;a href=&quot;../images/Sujet_de_stage_Bordeaux.pdf&quot;&gt;lien&lt;/a&gt;.
+Pour toute question, n’hésitez pas à nous contacter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;images/Sujet_de_stage_Bordeaux.pdf&quot;&gt;lien alternatif&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Oct 2024 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2024/10/21/New-Master-Position.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2024/10/21/New-Master-Position.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>L'écosysteme Mille-Feuilles démarre&quot;</title>
         <description>&lt;p&gt;L’écosysteme Mille-Feuilles est une suite logicielle avec une forte emphase sur la microstructure cardiaque.
-Le premier service intégrant visant base de donnée&lt;/p&gt;
+Le premier service intégrant une base de donnée publique est maintenant opérationnelle.&lt;/p&gt;
 
 &lt;p&gt;Le site github avec une description très brève des fonctionnalité
 &lt;a href=&quot;https://github.com/valeryozenne/Mille-Feuilles&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
@@ -34,8 +50,8 @@ Le premier service intégrant visant base de donnée&lt;/p&gt;
         <description>&lt;p&gt;&lt;a href=&quot;https://emploi.cnrs.fr/Offres/Doctorant/UMR5536-SYLMIR1-009/Default.aspx&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jun 2024 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2024/06/01/New-PhD-Position-copy.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2024/06/01/New-PhD-Position-copy.html</guid>
+        <link>https://valeryozenne.github.io/news/2024/06/01/New-PhD-Position.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2024/06/01/New-PhD-Position.html</guid>
         
         
         <category>news</category>
@@ -47,8 +63,8 @@ Le premier service intégrant visant base de donnée&lt;/p&gt;
         <description>&lt;p&gt;Rebecca-Lafont, student at PHELMA, is doing her 2nd year internship at IHU-LIRYC for 3 months. We welcome her to Bordeaux.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 May 2024 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2024/05/06/Welcome-Rebecca-Lafont-copy.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2024/05/06/Welcome-Rebecca-Lafont-copy.html</guid>
+        <link>https://valeryozenne.github.io/news/2024/05/06/Welcome-Rebecca-Lafont.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2024/05/06/Welcome-Rebecca-Lafont.html</guid>
         
         
         <category>news</category>
@@ -127,19 +143,6 @@ Le premier service intégrant visant base de donnée&lt;/p&gt;
         <pubDate>Sat, 01 Oct 2022 00:00:00 +0200</pubDate>
         <link>https://valeryozenne.github.io/news/2022/10/01/Two-open-master-positions.html</link>
         <guid isPermaLink="true">https://valeryozenne.github.io/news/2022/10/01/Two-open-master-positions.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Webiste is still working</title>
-        <description>
-</description>
-        <pubDate>Wed, 31 Aug 2022 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2022/08/31/Website-is-still-working.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2022/08/31/Website-is-still-working.html</guid>
         
         
         <category>news</category>
