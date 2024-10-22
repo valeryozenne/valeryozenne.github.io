@@ -7,7 +7,7 @@ categories: news
 ---
 
 L'écosysteme Mille-Feuilles est une suite logicielle avec une forte emphase sur la microstructure cardiaque.
-Le premier service intégrant visant base de donnée 
+Le premier service intégrant une base de donnée publique est maintenant opérationnelle.
 
 Le site github avec une description très brève des fonctionnalité
 [link](https://github.com/valeryozenne/Mille-Feuilles)
