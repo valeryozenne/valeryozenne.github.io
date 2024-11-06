@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Application is now opened for a master position in MRI and neuroscience
+title: "Application is now opened for a master position in MRI and neuroscience"
 date: 2024-10-21
 categories: news
 ---

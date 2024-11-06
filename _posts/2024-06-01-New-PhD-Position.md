@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Application is now opened for a PhD position in personalized image-guided therapies
+title: "Application is now opened for a PhD position in personalized image-guided therapies"
 date: 2024-06-01
 categories: news
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: L'écosysteme Mille-Feuilles démarre"
+title: "L'écosysteme Mille-Feuilles démarre"
 date: 2024-10-02
 categories: news
 ---
