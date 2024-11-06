@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Rebecca-Lafont is joining the team"
+title: "Rebecca-Lafont is joining the team"
 date: 2024-05-06
 categories: news
 ---

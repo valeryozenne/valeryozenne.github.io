@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Elodie Kopp is joining the team
+title: "Elodie Kopp is joining the team"
 date: 2024-03-06
 categories: news
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Two open master positions
+title: "Two open master positions"
 date: 2022-10-01
 categories: news
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Welcome to Nino Avetikovi who will start her Phd
+title: "Welcome to Nino Avetikovi who will start her PhD"
 date: 2024-11-04
 categories: news
 ---
