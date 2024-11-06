@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: First article of Pierre Cabanis has been accepted in JCMR"
+title: First article of Pierre Cabanis has been accepted in JCMR
 date: 2023-11-17
 categories: news
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Eber Dantas de Sá Paiva is joining the team"
+title: Eber Dantas de Sá Paiva is joining the team
 date: 2024-01-14
 categories: news
 ---
