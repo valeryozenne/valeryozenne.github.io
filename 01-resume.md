@@ -98,7 +98,8 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 
 2009
 :   Master de Recherche. Physique de la matière condensé et du rayonnement, Université Joseph Fourier, Grenoble
-    Formation à la physique fondamentale et introduction au thématique de recherche actuelle en physique moderne. [lien](https://www.grenoble-inp.fr/fr/formation/master-physique#page-presentation)
+    Formation à la physique fondamentale et introduction au thématique de recherche actuelle en physique moderne. [lien](https://www.grenoble-inp.fr/fr/formation/master-physique#page-presentation)  
+    
 2009
 :   Diplôme d’Ingénieur Phelma, Institut National Polytechnique de Grenoble
     Formation généraliste à dominante Physique et Science de l’Ingénieur pour les Nanotechnologies. [lien](https://phelma.grenoble-inp.fr/fr/l-ecole/ingenieur-en-micro-et-nanotechnologies)
