@@ -4,24 +4,14 @@ menutitle: RESUME
 permalink: /resume/
 ---
 
-I’m a researcher in medical imaging at [CNRS](https://www.cnrs.fr/fr/page-daccueil) and the Centre de Résonance Magnétique des Systèmes Biologiques (Bordeaux, France).
-
-Mes travaux portent sur le développement de nouvelles méthodes d’imagerie, permettant de suivre en temps réel le bon déroulement de procédures interventionnelles (ou intervention médicale) sous IRM. 
-
-Je m'intéresse particulièrement au suivi de procédures de thermoablation. Ces procédures visent à détruire des tissus pathologiques via un dépot énergie localisé. Différents dispositifs médicaux mini-invasifs tel que le laser, la radiofréquence ou les micro-ondes ou des dispositifs non-invasifs comme les ultrasons de haute intensité peuvent être utilisés. 
-
-Deux thérapies sont principalement concernées: l'oncologie pour le traitement des tumeurs cancéreuses et la cardialogie pour l'ablation des tissus cardiaques arrythmogènes responsables des arrythmies cardiaques. 
-
-
-
 Direct access to [bibliography](#bibliography) ( [Books](#books), [Journal](#Journal), [Chapters](#chapters), [Conferences](#conferences)).
 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
 -->
-
+<!---
 Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, Scientific Computation.
-
+-->
 # Contact
 
 ## Main office
@@ -48,23 +38,24 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
   **Email**: prenom point nom at u-bordeaux point fr
   </small>
 
+# Team
 
-# Post-doc students
+## Post-doc students
 
 Maxime Yon (2019-2021),
 
-# PhD students
+## PhD students
 
-Nino Avetikovi (2024-2027),
-Joao Magnus Bailuni de Bragança (2024-2025),
-Eber Dantas (2024-2024),
-Pierre Cabanis (2021-2024),
+Nino Avetikovi (2024-2027),  
+Joao Magnus Bailuni de Bragança (2024-2025),  
+Eber Dantas (2024-2024),  
+Pierre Cabanis (2021-2024),  
 
-# Interns
+## Interns
 
-Rebecca-Lafont (2024, Phelma, Grenoble),
-Elodie Kopp (2024, Strasbourg),
-Margaux Nussbaumer (2023, IMT Atlantique, Brest),  
+Rebecca-Lafont (2024, Phelma, Grenoble),  
+Elodie Kopp (2024, Strasbourg),  
+Margaux Nussbaumer (2023, IMT Atlantique, Brest),    
 Nino Avetikovi (2023, Phelma, Grenoble),  
 Joseph Bregeat (2022, ENSEIRB-MATMECA , Bordeaux),  
 Pierre Cabanis (2021, ENSEIRB-MATMECA , Bordeaux),  
@@ -96,7 +87,7 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 2009-2012
 :   **Phd [CEA](https://www.cea.fr/)**,  
     Member of the [Institut de Biologie Structurale](https://www.ibs.fr/),  
-    Member of the
+    Member of the Groupe Flexibilité et Dynamique des Protéines par RMN
 
 # Education
 
