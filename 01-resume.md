@@ -49,13 +49,30 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
   </small>
 
 
+# Post-doc students
 
+Maxime Yon (2019-2021),
 
+# PhD students
 
+Nino Avetikovi (2024-2027),
+Joao Magnus Bailuni de Bragança (2024-2025),
+Eber Dantas (2024-2024),
+Pierre Cabanis (2021-2024),
 
+# Interns
+
+Rebecca-Lafont (2024, Phelma, Grenoble),
+Elodie Kopp (2024, Strasbourg),
+Margaux Nussbaumer (2023, IMT Atlantique, Brest),  
+Nino Avetikovi (2023, Phelma, Grenoble),  
+Joseph Bregeat (2022, ENSEIRB-MATMECA , Bordeaux),  
+Pierre Cabanis (2021, ENSEIRB-MATMECA , Bordeaux),  
+Léa Pfeiffer (2019, ENSEIRB-MATMECA , Bordeaux),  
+Alexis Vaussy (2015-2016, Télécom Physique Strasbourg, Strasbourg),  
+Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 
 # Professional history
-
 
 2020-Today
 :   **Chargé de Recherche [CNRS](https://www.cnrs.fr/fr/page-daccueil)**,  
@@ -96,30 +113,7 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
     Formation généraliste à dominante Physique et Science de l’Ingénieur pour les Nanotechnologies. [lien](https://phelma.grenoble-inp.fr/fr/l-ecole/ingenieur-en-micro-et-nanotechnologies)
 
 
-# Activities
-
-TODO
-
-# Post-doc students
-
-Maxime Yon (2019-2021)
-
-# PhD students
-
-Eber Dantas (2024-2024),
-Pierre Cabanis (2021-2024)
-
-# Interns
-
-Rebecca-Lafont (2024, Phelma, Grenoble),
-Elodie Kopp (2024, Strasbourg),
-Margaux Nussbaumer (2023, IMT Atlantique, Brest),  
-Nino Avetikovi (2023, Phelma, Grenoble),  
-Joseph Bregeat (2022, ENSEIRB-MATMECA , Bordeaux),  
-Pierre Cabanis (2021, ENSEIRB-MATMECA , Bordeaux),  
-Léa Pfeiffer (2019, ENSEIRB-MATMECA , Bordeaux),  
-Alexis Vaussy (2015-2016, Télécom Physique Strasbourg, Strasbourg),  
-Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),  
+  
 
 # Bibliography
 
