@@ -21,8 +21,8 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
   [Entrée Hôpital Pellegrin](https://www.chu-bordeaux.fr/CHU-de-Bordeaux/H%C3%B4pitaux-et-sites-du-CHU/Groupe-hospitalier-Pellegrin/)
   146 rue Léo Saignat,   
   Bâtiment 4A – Zone Nord,  
-  33076 Bordeaux  
-  **Email**: prenom  point nom at u-bordeaux point fr
+  33076 Bordeaux    
+  **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
 
@@ -35,7 +35,7 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
   [Entrée Hôpital Xavier Arnozan](https://www.chu-bordeaux.fr/CHU-de-Bordeaux/H%C3%B4pitaux-et-sites-du-CHU/Groupe-hospitalier-Sud/H%C3%B4pital-Xavier-Arnozan/)
   Avenue du Haut Lévêque,   
   33600 Pessac
-  **Email**: prenom point nom at u-bordeaux point fr
+  **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
 # Team
