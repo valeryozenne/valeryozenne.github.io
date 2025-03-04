@@ -4,7 +4,7 @@ menutitle: RESUME
 permalink: /resume/
 ---
 
-Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative office](#alternative-office)) and [bibliography](#bibliography) ( [Books](#books), [Articles](#articles), [Conferences](#conferences)).
+Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative office](#alternative-office)) and [Bibliography](#bibliography) ( [Books](#books), [Articles](#articles), [Conferences](#conferences)).
 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
@@ -78,6 +78,7 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
     Member of the [Liryc - The Electrophysiology and Heart Modelling Institute](https://www.ihu-liryc.fr/en/),  
     Member of the Imaging Team
 
+
 2013-2018  
 :   **Post-doc [Université de Bordeaux](https://www.u-bordeaux.fr/)**,  
     Member of the [Liryc - The Electrophysiology and Heart Modelling Institute](https://www.ihu-liryc.fr/en/),  
@@ -91,21 +92,17 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 
 # Education
 
-2009-2012
-:   **PhD at [Université Joseph Fourier](https://www.univ-grenoble-alpes.fr/)** , 
-     
-    *Thesis title: Etude de la dynamique conformationnelle des protéines intrinsèquement désordonnées par résonance magnétique nucléaire*
+2009-2012:\
+**PhD at [Université Joseph Fourier](https://www.univ-grenoble-alpes.fr/)** ,\
+    *Thesis title: Etude de la dynamique conformationnelle des protéines intrinsèquement désordonnées par résonance magnétique nucléaire* \
 
-2009
-:   Master de Recherche. Physique de la matière condensé et du rayonnement, Université Joseph Fourier, Grenoble
-    Formation à la physique fondamentale et introduction au thématique de recherche actuelle en physique moderne. [lien](https://www.grenoble-inp.fr/fr/formation/master-physique#page-presentation)  
-    
-2009
-:   Diplôme d’Ingénieur Phelma, Institut National Polytechnique de Grenoble
-    Formation généraliste à dominante Physique et Science de l’Ingénieur pour les Nanotechnologies. [lien](https://phelma.grenoble-inp.fr/fr/l-ecole/ingenieur-en-micro-et-nanotechnologies)
+2009:\
+Master de Recherche. Physique de la matière condensé et du rayonnement, Université Joseph Fourier, Grenoble\
+Formation à la physique fondamentale et introduction au thématique de recherche actuelle en physique moderne. [lien](https://www.grenoble-inp.fr/fr/formation/master-physique#page-presentation)\  
 
-
-  
+2009:\
+Diplôme d’Ingénieur Phelma, Institut National Polytechnique de Grenoble\
+Formation généraliste à dominante Physique et Science de l’Ingénieur pour les Nanotechnologies. [lien](https://phelma.grenoble-inp.fr/fr/l-ecole/ingenieur-en-micro-et-nanotechnologies)\
 
 # Bibliography
 
