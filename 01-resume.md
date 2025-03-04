@@ -4,7 +4,7 @@ menutitle: RESUME
 permalink: /resume/
 ---
 
-Direct access to [bibliography](#bibliography) ( [Books](#books), [Journal](#Journal), [Chapters](#chapters), [Conferences](#conferences)).
+Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative office](#alternative-office)) and [bibliography](#bibliography) ( [Books](#books), [Articles](#articles), [Conferences](#conferences)).
 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
@@ -119,14 +119,13 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 # Preprints
 
 -->
+# Articles
+
+{% bibliography --query @article[year>=2000] %}
 
 # Books
 
 {% bibliography --query @book[year>=2000] %}
-
-# Journals
-
-{% bibliography --query @article[year>=2000] %}
 
 # Conferences
 
