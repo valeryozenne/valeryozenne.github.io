@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: "Welcome to da Burgers who will start her PhD"
+title: "Welcome to Ida Burgers who will start her PhD"
 date: 2025-01-01
 categories: news
 ---
