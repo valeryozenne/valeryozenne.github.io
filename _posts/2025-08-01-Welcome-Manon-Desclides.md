@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Manon Deslides is joining the SMART-HEAT projet"
+title: "Manon Deslides is joining the SMART-HEAT projet"
 date: 2025-08-01
 categories: news
 ---

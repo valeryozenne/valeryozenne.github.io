@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Attending the ESRMRB conference in Marseille"
+title: "Attending the ESRMRB conference in Marseille"
 date: 2025-10-05
 categories: news
 ---

@@ -4,18 +4,16 @@ menutitle: PROJECTS
 permalink: /projects/
 ---
 
-
 # Projects
 
-## Some comments
+## Interventional MRI and MR Thermometry
 
-## Interventional MRI and MR Thermometry 
-
+## Thermoregulation and MR Thermometry
 
 ## Diffusion MRI and cardiac architecture
 
 
-# Softwares 
+# Softwares I'm using
 
 * [Gadgetron](http://gadgetron.github.io/)  
   Medical Imaging - Python, C/C++, Matlab  
@@ -36,8 +34,4 @@ permalink: /projects/
 * [Dicomifier](https://github.com/lamyj/dicomifier)  
   Medical Imaging - C/C++  
   Documentation: [readthedocs.dicomifer](https://dicomifier.readthedocs.io/en/latest/)
-
-
-  
-
 

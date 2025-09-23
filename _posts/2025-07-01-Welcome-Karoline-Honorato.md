@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Karoline Honorato Araujo is joining the team"
+title: "Karoline Honorato Araujo is joining the team"
 date: 2025-07-01
 categories: news
 ---
