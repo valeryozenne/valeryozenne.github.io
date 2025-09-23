@@ -2,7 +2,7 @@
 layout: post
 type: news
 title: Grant proposal accepted, hourra! "
-date: 2025-10-05
+date: 2025-07-15
 categories: news
 ---
 
