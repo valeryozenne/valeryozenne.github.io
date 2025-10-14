@@ -42,7 +42,7 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
 
 ## Post-doc students
 
-Manon Desclides (2019-2021),
+Manon Desclides (2025-2027),    
 Maxime Yon (2019-2021),
 
 ## PhD students
