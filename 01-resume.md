@@ -42,23 +42,25 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
 
 ## Post-doc students
 
+Manon Desclides (2019-2021),
 Maxime Yon (2019-2021),
 
 ## PhD students
 
-Nino Avetikovi (2024-2027), co-supervision with Jean-Luc Battaglia
-Ida Burger (2024-2027), co-supervision with Jean-Luc Battaglia
-Joao Magnus Bailuni de Bragança (2024-2025), co-supervision with Cesar Cunha Pacheco
-Eber Dantas (2024-2024), co-supervision with Helcio Orlande  
+Nino Avetikovi (2024-2027), co-supervision with Jean-Luc Battaglia,  
+Ida Burger (2024-2027), co-supervision with Jean-Luc Battaglia,  
+Joao Magnus Bailuni de Bragança (2024-2025), co-supervision with Cesar Cunha Pacheco,  
+Eber Dantas (2024-2024), co-supervision with Helcio Orlande,    
 Pierre Cabanis (2021-2024)  
 
 ## Interns
 
-Bilal Ajdid (2025, University, Toulouse)
-Manel Benabas (2025, University, Toulouse)
-Rebecca-Lafont (2024, Phelma, Grenoble)  
-Elodie Kopp (2024, Strasbourg)  
-Margaux Nussbaumer (2023, IMT Atlantique, Brest)
+Karoline Honorato Araujo (2025, Université Federal Fluminense, Rio de Janeiro),   
+Bilal Ajdid (2025, University, Toulouse),   
+Manel Benabas (2025, University, Toulouse),  
+Rebecca-Lafont (2024, Phelma, Grenoble),  
+Elodie Kopp (2024, Strasbourg),  
+Margaux Nussbaumer (2023, IMT Atlantique, Brest),  
 Nino Avetikovi (2023, Phelma, Grenoble),  
 Joseph Bregeat (2022, ENSEIRB-MATMECA , Bordeaux)  
 Pierre Cabanis (2021, ENSEIRB-MATMECA , Bordeaux),  
