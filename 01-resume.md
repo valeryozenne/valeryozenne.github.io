@@ -55,9 +55,12 @@ Pierre Cabanis (2021-2024)
 
 ## Interns
 
+Leo Deloison (2025, Université, Bordeaux), 
+Shahsamit Abul (2025, Université, Bordeaux),
+Clement Nadal (2025, Université, Bordeaux),
 Karoline Honorato Araujo (2025, Université Federal Fluminense, Rio de Janeiro),   
-Bilal Ajdid (2025, University, Toulouse),   
-Manel Benabas (2025, University, Toulouse),  
+Bilal Ajdid (2025, Université, Toulouse),   
+Manel Benabas (2025, Université, Toulouse),  
 Rebecca-Lafont (2024, Phelma, Grenoble),  
 Elodie Kopp (2024, Strasbourg),  
 Margaux Nussbaumer (2023, IMT Atlantique, Brest),  
