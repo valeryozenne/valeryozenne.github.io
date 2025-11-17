@@ -19,8 +19,8 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
 * [Centre de Résonance Magnétique des Systèmes Biologiques](https://www.rmsb.u-bordeaux.fr/fr/)  
   <small>
   [Entrée Hôpital Pellegrin](https://www.chu-bordeaux.fr/CHU-de-Bordeaux/H%C3%B4pitaux-et-sites-du-CHU/Groupe-hospitalier-Pellegrin/)
-  146 rue Léo Saignat,   
-  Bâtiment 4A – Zone Nord,  
+  Bâtiment IBIO, 1er étage - Zone Nord,  
+  146 rue Léo Saignat,     
   33076 Bordeaux    
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
@@ -55,9 +55,9 @@ Pierre Cabanis (2021-2024)
 
 ## Interns
 
-Leo Deloison (2025, Université, Bordeaux), 
-Shahsamit Abul (2025, Université, Bordeaux),
-Clement Nadal (2025, Université, Bordeaux),
+Leo Deloison (2025, Université, Bordeaux),   
+Shahsamit Abul (2025, Université, Bordeaux),   
+Clement Nadal (2025, Université, Bordeaux),   
 Karoline Honorato Araujo (2025, Université Federal Fluminense, Rio de Janeiro),   
 Bilal Ajdid (2025, Université, Toulouse),   
 Manel Benabas (2025, Université, Toulouse),  
