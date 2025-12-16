@@ -5,9 +5,25 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>https://valeryozenne.github.io/</link>
     <atom:link href="https://valeryozenne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Nov 2025 18:17:45 +0100</pubDate>
-    <lastBuildDate>Mon, 17 Nov 2025 18:17:45 +0100</lastBuildDate>
+    <pubDate>Tue, 16 Dec 2025 23:06:24 +0100</pubDate>
+    <lastBuildDate>Tue, 16 Dec 2025 23:06:24 +0100</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Attending the 1stLow-Field MRI conference in Bordeaux</title>
+        <description>&lt;p&gt;The 1st International Conference on the Use of Low and Ultra-low Field MRI for Cohort Imaging in Neuroepidemiology is organised by our lab (the CRMSB) and the VBHI. This conference will be held in Bordeaux from 25 to 26 November 2025.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lowfieldneuro25.sciencesconf.org/&quot;&gt;link to the conference website&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 25 Nov 2025 00:00:00 +0100</pubDate>
+        <link>https://valeryozenne.github.io/news/2025/11/25/Low-Field-MRI-Conference.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/11/25/Low-Field-MRI-Conference.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Attending the ESRMRB conference in Marseille</title>
@@ -19,8 +35,8 @@
 -&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Oct 2025 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/10/05/ESMRMB-Conference.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/10/05/ESMRMB-Conference.html</guid>
+        <link>https://valeryozenne.github.io/news/2025/10/05/ESMRMB-Conference-copy.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/10/05/ESMRMB-Conference-copy.html</guid>
         
         
         <category>news</category>
@@ -126,19 +142,6 @@
         <pubDate>Mon, 10 Feb 2025 00:00:00 +0100</pubDate>
         <link>https://valeryozenne.github.io/news/2025/02/10/Welcome-Manel-Benabas.html</link>
         <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/02/10/Welcome-Manel-Benabas.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Bilal Ajdid is joining the team</title>
-        <description>&lt;p&gt;Bilal Ajdid is doing his master 2 internship over the spring-summer 2025 period. He will develop non-invasive and volumetric thermometric mapping technique using MR spectroscopy protocol to study  brain temperature elevations. We welcome him to Bordeaux.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Feb 2025 00:00:00 +0100</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/02/10/Welcome-Bilal-Ajdid.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/02/10/Welcome-Bilal-Ajdid.html</guid>
         
         
         <category>news</category>
