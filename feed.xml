@@ -5,9 +5,41 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>https://valeryozenne.github.io/</link>
     <atom:link href="https://valeryozenne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Feb 2026 10:43:59 +0100</pubDate>
-    <lastBuildDate>Fri, 06 Feb 2026 10:43:59 +0100</lastBuildDate>
+    <pubDate>Fri, 06 Feb 2026 11:12:49 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 11:12:49 +0100</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>A blog article has been published in le journal CNRS on our latest work.</title>
+        <description>&lt;p&gt;Our article “New analytical and hybrid heat transfer models for thermal ablation procedures validated by MRI thermometry” has been accepted at International Journal of Hyperthermia. A blog article has been published in the CNRS journal on our latest work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;_posts/2026-01-22-Tracto-Club-Session.md&quot;&gt;link to the article&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Feb 2026 00:00:00 +0100</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/02/01/Actu-CNRS-Ingenierie.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/02/01/Actu-CNRS-Ingenierie.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Presenting at the TractAnat Club</title>
+        <description>&lt;p&gt;Presenting at the TractAnat Club, how cardiac cell structure influences MRI diffusion signals.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://lowfieldneuro25.sciencesconf.org/&quot;&gt;link to the youtube video&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Jan 2026 00:00:00 +0100</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/01/22/Tracto-Club-Session.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/01/22/Tracto-Club-Session.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Attending the 1stLow-Field MRI conference in Bordeaux</title>
@@ -116,32 +148,6 @@
         <pubDate>Mon, 24 Mar 2025 00:00:00 +0100</pubDate>
         <link>https://valeryozenne.github.io/news/2025/03/24/Phase-Imaging-Course.html</link>
         <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/03/24/Phase-Imaging-Course.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>HDR defense</title>
-        <description>&lt;p&gt;Done! The title was “Imagerie thermique par IRM : développements méthodologiques et applications en radiologie interventionnelle.”&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Mar 2025 00:00:00 +0100</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/03/20/HDR-Defense.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/03/20/HDR-Defense.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Manel Benabas is joining the team</title>
-        <description>&lt;p&gt;Manel-Benabas is doing her master 2 internship over the spring-summer 2025 period. In collaboration with Florence Franconi, she will develop non-invasive and volumetric thermometric mapping technique using MR spectroscopy protocol to study hyperthermia and hypothermia. We welcome her to Bordeaux.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Feb 2025 00:00:00 +0100</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/02/10/Welcome-Manel-Benabas.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/02/10/Welcome-Manel-Benabas.html</guid>
         
         
         <category>news</category>
