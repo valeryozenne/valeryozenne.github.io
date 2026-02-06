@@ -1,7 +1,7 @@
 ---
 layout: page
-menutitle: GALLERY
-permalink: /gallery/
+menutitle: MICROSTRUCTURE
+permalink: /microstructure/
 ---
 
 ![my image](../best_figure_ever.png)
