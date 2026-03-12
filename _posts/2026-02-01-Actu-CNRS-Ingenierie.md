@@ -8,5 +8,5 @@ categories: news
 
 Our article 'New analytical and hybrid heat transfer models for thermal ablation procedures validated by MRI thermometry' has been accepted at International Journal of Hyperthermia. A related blog article has been published in 'Le journal du CNRS'. 
 
-[link to the article](_posts/2026-01-22-Tracto-Club-Session.md)
+[link to the blog article](https://www.insis.cnrs.fr/fr/cnrsinfo/mieux-controler-lablation-thermique-dune-tumeur)
 
