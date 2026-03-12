@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Our CNRS MITI grant proposal (CHAUPATAT) has been accepted, hourra!
+title: "Our CNRS MITI grant proposal (CHAUPATAT) has been accepted, hourra!"
 date: 2024-04-03
 categories: news
 ---

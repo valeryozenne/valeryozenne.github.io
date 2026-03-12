@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Our ANR grant proposal (THERMOLYSE) has been accepted, hourra!
+title: "Our ANR grant proposal (THERMOLYSE) has been accepted, hourra!"
 date: 2025-07-15
 categories: news
 ---
