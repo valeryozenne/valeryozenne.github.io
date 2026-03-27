@@ -9,9 +9,6 @@ Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
 -->
-<!---
-Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, Scientific Computation.
--->
 # Contact
 
 ## Main office
@@ -25,16 +22,14 @@ Keywords: Therapy, Medical Imaging, Magnetic Resonance Imaging, Thermoablation, 
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
-
-
 ## Alternative office
 
 * [LIRYC - L'institut des maladies du rythme cardiaque](https://www.ihu-liryc.fr/en/) 
-  [LIRYC - The Electrophysiology and Heart Modelling Institute](https://www.ihu-liryc.fr/fr/)  
+  [The Electrophysiology and Heart Modelling Institute](https://www.ihu-liryc.fr/fr/)  
   <small>
   [Entrée Hôpital Xavier Arnozan](https://www.chu-bordeaux.fr/CHU-de-Bordeaux/H%C3%B4pitaux-et-sites-du-CHU/Groupe-hospitalier-Sud/H%C3%B4pital-Xavier-Arnozan/)
   Avenue du Haut Lévêque,   
-  33600 Pessac
+  33600 Pessac   
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
@@ -55,9 +50,9 @@ Pierre Cabanis (2021-2024)
 
 ## Interns
 
-Leo Deloison (2025, Université, Bordeaux),   
+Léo Deloison (2025, Université, Bordeaux),   
 Shahsamit Abul (2025, Université, Bordeaux),   
-Clement Nadal (2025, Université, Bordeaux),   
+Clément Nadal (2025, Université, Bordeaux),   
 Karoline Honorato Araujo (2025, Université Federal Fluminense, Rio de Janeiro),   
 Bilal Ajdid (2025, Université, Toulouse),   
 Manel Benabas (2025, Université, Toulouse),  
@@ -138,6 +133,27 @@ Formation généraliste à dominante Physique et Science de l’Ingénieur pour 
 
 
 
+# Softwares I'm using
+
+* [Gadgetron](http://gadgetron.github.io/)  
+  Medical Imaging - Python, C/C++, Matlab  
+  Forum: [discourse.slicer](https://gadgetron.discourse.group/)
+
+* [3DSlicer](https://www.slicer.org/)  
+  Medical Imaging - Python, C/C++  
+  Forum: [discourse.slicer](https://discourse.slicer.org/)
+
+* [MRtrix3](https://www.mrtrix.org/)  
+  Medical Imaging - C/C++  
+  Forum: [discourse.mrtrix](https://community.mrtrix.org/)
+
+* [Girder](https://www.mrtrix.org/)  
+  Medical Imaging - Python  
+  Forum: [discourse.Girder](https://discourse.girder.org/)  
+
+* [Dicomifier](https://github.com/lamyj/dicomifier)  
+  Medical Imaging - C/C++  
+  Documentation: [readthedocs.dicomifer](https://dicomifier.readthedocs.io/en/latest/)
 
 
 

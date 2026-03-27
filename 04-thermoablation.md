@@ -4,6 +4,9 @@ menutitle: THERMOABLATION
 permalink: /thermoablation/
 ---
 
-# Projet SMART-HEAT
+# Interventional MRI and MR Thermometry
+
+## Projet Smart-Heat
 
 
+## Projet Chaupatat
