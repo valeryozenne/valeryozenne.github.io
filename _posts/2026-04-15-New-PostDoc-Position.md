@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: "A new post-doc position is now opened in MRI and thermorégulation"
+title: "A post-doc position is now opened in MRI and thermoregulation"
 date: 2026-04-15
 categories: news
 ---
