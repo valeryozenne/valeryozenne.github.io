@@ -4,11 +4,11 @@ special_keywords: ["Imagerie par résonance magnétique", "Mesure de temperature
 paragraphs:
   - title: "Imagerie interventionnelle et cartographie thermique par IRM"
     content: "
-    Les thermoablations sont des procédures thérapeutiques couramment utilisées pour détruire des tissus pathologiques via un dépôt d’énergie localisé. 
+    Les thermoablations sont des procédures thérapeutiques couramment utilisées pour détruire des tissus pathologiques via un dépôt d’énergie localisé.<br> 
     
-    Néanmoins, de nombreuses procédures sont réalisées sans visualisation du champ thermique et ne permettent pas d'optimiser le dépot d'énergie pour atteindre les marges souhaitées. 
+    Néanmoins, de nombreuses procédures sont réalisées sans visualisation du champ thermique et ne permettent pas d'optimiser le dépot d'énergie pour atteindre les marges souhaitées. <br>
     
-    L'imagerie de température par IRM nommé souvent thermométrie permet de quantifier en temps réel et de manière volumétrique le champ thermique pendant l'intervention. 
+    L'imagerie de température par IRM nommé souvent thermométrie permet de quantifier en temps réel et de manière volumétrique le champ thermique pendant l'intervention. <br>
     
     Mes travaux actuels proposent une refonte de ces approches en couplant le mesure expérimentale par IRM avec des modèles physiques thermiques afin d'augmenter la précision des mesures et de fournir au praticien des mesures hybrides à haute résolution spatiale et temporelle pour l'aide à la décision lors de la procédure. 
 
