@@ -28,7 +28,7 @@ paragraphs:
     links: /microstructure/
 ---
 
-Je suis chargé de recherche au CNRS, et rattaché au Centre de Résonance Magnétique des Systèmes Biologiques à Bordeaux. 
+Je suis chargé de recherche au [CNRS](https://www.cnrs.fr/fr), et rattaché au [Centre de Résonance Magnétique des Systèmes Biologiques](https://www.rmsb.u-bordeaux.fr/fr/) à Bordeaux. 
 
 Mes travaux portent sur le développement de nouvelles méthodes d’imagerie thermique par IRM. Mon cœur de métier concerne le développement d’algorithmes de reconstruction ou de traitements d’images innovants pour transformer le signal brut IRM en information de température interprétable, le tout avec une contrainte de temps réel.
 
