@@ -20,10 +20,14 @@ permalink: /news/
             <span class="news-badge news-badge--new">TEAM</span>
           {% elsif title_down contains "anr" or title_down contains "grant" or title_down contains "accepted" %}
             <span class="news-badge news-badge--grant">GRANT</span>
+          {% elsif title_down contains "journal" or title_down contains "blog" or title_down contains "mublished" %}
+            <span class="news-badge news-badge--PRESS">PRESS</span>  
           {% elsif title_down contains "conference" or title_down contains "presenting" or title_down contains "attending" %}
             <span class="news-badge news-badge--conf">CONF</span>
           {% elsif title_down contains "release" or title_down contains "software" or title_down contains "code" %}
             <span class="news-badge news-badge--new">CODE</span>       
+          {% elsif title_down contains "position" or title_down contains "job" or title_down contains "opened" %}
+            <span class="news-badge news-badge--job">JOB</span>         
           {% endif %}
         </span>
       </li>

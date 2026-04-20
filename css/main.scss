@@ -633,6 +633,24 @@ ul.news-list {
     border-color: darken($amber, 25%);
     background: darken($amber, 50%);
   }
+
+  &--job {
+    color: $amber;
+    border-color: darken($amber, 25%);
+    background: darken($amber, 50%);
+  }
+
+  &--code {
+    color: $amber;
+    border-color: darken($amber, 25%);
+    background: darken($amber, 50%);
+  }
+
+  &--press {
+    color: $amber;
+    border-color: darken($amber, 25%);
+    background: darken($amber, 50%);
+  }
 }
 
 
