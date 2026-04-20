@@ -5,9 +5,59 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>https://valeryozenne.github.io/</link>
     <atom:link href="https://valeryozenne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Mar 2026 21:33:51 +0100</pubDate>
-    <lastBuildDate>Fri, 27 Mar 2026 21:33:51 +0100</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2026 17:40:52 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:40:52 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The team is presenting two abstracts at RITS2026</title>
+        <description>&lt;p&gt;Nino Avetikovi and Dr. Manon Desclides are presenting their work at &lt;a href=&quot;https://rits2026.sciencesconf.org/&quot;&gt;RITS2026&lt;/a&gt; during the session “Innovations technologiques en santé 2”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Magnetic resonance thermometry validation of bioheat transfer model for lesion size prediction in liver tumor microwave ablation procedures by Nino Avetikovi.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Investigating the thermal effect of photodynamic therapy for glioblastoma treatment by Manon Desclides.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/04/20/RITS2026.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/04/20/RITS2026.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>A post-doc position is now opened in MRI and thermoregulation</title>
+        <description>&lt;p&gt;L’offre détaillée est accessible à ce &lt;a href=&quot;https://app.beetween.com/WeaselWeb/p/#/apply/job/l2xdfqgur4/chercheur-post-doctoral-sur-la-thermoregulation-mitochondriale-par-imagerie-thermique-f-h&quot;&gt;lien&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Pour toute question, n’hésitez pas à me contacter.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/04/15/New-PostDoc-Position.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/04/15/New-PostDoc-Position.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Hippolyte Salles is joining the team</title>
+        <description>&lt;p&gt;Hippolyte Salles is doing his master 2 internship over the spring-summer 2026 period at CRMSB. He will develop new segmentation algorithms and image processing tools for the creation of thermal numerical models for the treatment of liver tumors. We welcome him to Bordeaux.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Apr 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/04/13/Welcome-Hippolyte-Salles.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/04/13/Welcome-Hippolyte-Salles.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Pre-Release-Of-Software-Suite-MilleFeuille</title>
@@ -56,7 +106,7 @@
     
       <item>
         <title>A blog article has been published in 'Le journal du CNRS' on our latest work.</title>
-        <description>&lt;p&gt;Our article ‘New analytical and hybrid heat transfer models for thermal ablation procedures validated by MRI thermometry’ has been accepted at International Journal of Hyperthermia. A related blog article has been published in ‘Le journal du CNRS’.&lt;/p&gt;
+        <description>&lt;p&gt;Our article ‘New analytical and hybrid heat transfer models for thermal ablation procedures validated by MRI thermometry’ has been accepted at International Journal of Hyperthermia. A related blog article has been published in ‘Le journal du CNRS’. Congratulation to the Smart-Heat team.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.insis.cnrs.fr/fr/cnrsinfo/mieux-controler-lablation-thermique-dune-tumeur&quot;&gt;link to the blog article&lt;/a&gt;&lt;/p&gt;
 
@@ -127,46 +177,6 @@
         <pubDate>Fri, 01 Aug 2025 00:00:00 +0200</pubDate>
         <link>https://valeryozenne.github.io/news/2025/08/01/Welcome-Manon-Desclides.html</link>
         <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/08/01/Welcome-Manon-Desclides.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Our ANR grant proposal (THERMOLYSE) has been accepted, hourra!</title>
-        <description>&lt;p&gt;Our ANR grant proposal THERMOLYSE between MITOVASC (Angers), PRISM (Angers) and CRMSB (Bordeaux) has been accepted.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 15 Jul 2025 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/07/15/ANR-THERMOLYSE.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/07/15/ANR-THERMOLYSE.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Karoline Honorato Araujo is joining the team</title>
-        <description>&lt;p&gt;Karoline Honorato Araujo is doing her master 1 internship over the summer 2025 period. She will develop deep-learning segmentation methods for abdominal imaging. We welcome her to Bordeaux.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 01 Jul 2025 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/07/01/Welcome-Karoline-Honorato.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/07/01/Welcome-Karoline-Honorato.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Journée SFT dedicated to reduced model in heat transfert modeling</title>
-        <description>&lt;p&gt;I’ll attend at Paris the “journée SFT” Société Française de Thermique dedicated to reduced model in heat transfert modeling.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Jun 2025 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/06/16/SFT-Reduction-Model.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/06/16/SFT-Reduction-Model.html</guid>
         
         
         <category>news</category>
