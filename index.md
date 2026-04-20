@@ -44,7 +44,7 @@ Mots clés:
 {% for paragraph in page.paragraphs %}
   <h2 class="subheading">{{ paragraph.title }}</h2>
 
-  {{ paragraph.content   markdownify }} 
+  {{ paragraph.content | markdownify }} 
 
   <div class="keywords">
     {% for kw in paragraph.keywords %}
