@@ -1,25 +1,51 @@
 ---
 layout: index
-keywords: [MRI, Temperature Mapping, Thermo-Ablation, Real-time]
+special_keywords: ["Imagerie par résonance magnétique", "Mesure de temperature non invasive", "Modèle numérique thermique", "Aide à la décision"]
+paragraphs:
+  - title: "Imagerie interventionnelle et cartographie thermique par IRM"
+    content: "Différents dispositifs médicaux mini-invasifs tels que le laser, la radiofréquence ou les micro-ondes, ou des dispositifs non-invasifs comme les ultrasons de haute intensité peuvent être utilisés. Deux thérapies sont principalement concernées: l'oncologie pour le traitement des tumeurs cancéreuses et la cardiologie pour l'ablation des tissus cardiaques arythmogènes responsables des arythmies cardiaques."
+    keywords: ["Temperature Mapping", "Thermo-Ablation", "Image-guided therapy", "Real-time processing", "Medical Devices"]
+
+  - title: "Thermorégulation, hyperthermie et cartographie thermique par IRM"
+    content: "TODO"
+    keywords: ["Thermoregulation", "Hyperthermia", "Heatstroke"]
+
+  - title: "Etude de l'architecture cardiaque par IRM de diffusion"
+    content: "TODO"
+    keywords: [ "Architecture cardiaque", "IRM de diffusion" , "Arythmie"]
 ---
 
 Je suis chargé de recherche au CNRS, et rattaché au Centre de Résonance Magnétique des Systèmes Biologiques à Bordeaux. 
 
 Mes travaux portent sur le développement de nouvelles méthodes d’imagerie thermique par IRM, pour permettre de suivre en temps réel le déroulement de procédures interventionnelles. Ces procédures visent à détruire des tissus pathologiques via un dépôt d’énergie localisé. Mon cœur de métier concerne le développement d’algorithmes de reconstruction ou de traitements d’images innovants pour transformer le signal brut IRM en information de température interprétable, le tout avec une contrainte de temps réel.
 
-<!--
-I’m a researcher in medical imaging in a [CNRS](https://www.cnrs.fr/fr/page-daccueil) laboratory, the "Centre de Résonance Magnétique des Systèmes Biologiques" (Bordeaux, France).
--->
+Mots clés:
+<div class="keywords">
+  {% for skw in page.special_keywords %}
+    <span class="kww">{{ skw }}</span>
+  {% endfor %}
+</div>
+<br> <!-- Ajoute une ligne vide après les mots-clés -->
 
-Mots clés: Imagerie par résonance magnétique, Mesure de temperature non invasive, Thermoablation, Dispositifs Médicaux.
+# Projects
+{% for paragraph in page.paragraphs %}
+  <h2 class="subheading">{{ paragraph.title }}</h2>
 
-## Imagerie interventionnelle et cartographie thermique par IRM
+  {{ paragraph.content   markdownify }}
 
-Différents dispositifs médicaux mini-invasifs tels que le laser, la radiofréquence ou les micro-ondes, ou des dispositifs non-invasifs comme les ultrasons de haute intensité peuvent être utilisés. Deux thérapies sont principalement concernées: l'oncologie pour le traitement des tumeurs cancéreuses et la cardiologie pour l'ablation des tissus cardiaques arythmogènes responsables des arythmies cardiaques.
-
-## Thermoregulation et cartographie thermique par IRM
-
-## Etude de l'architecture cardiaque par IRM de diffusion
+  <div class="keywords">
+    {% for kw in paragraph.keywords %}
+      {% if forloop.parentloop.first %}
+        <span class="kwg">{{ kw }}</span>
+      {% elsif forloop.parentloop.last %}
+        <span class="kwb">{{ kw }}</span>  
+      {% else %}
+        <span class="kwr">{{ kw }}</span>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <br> <!-- Ajoute une ligne vide après les mots-clés -->
+{% endfor %}
 
 # Latest articles
 
@@ -74,4 +100,13 @@ Différents dispositifs médicaux mini-invasifs tels que le laser, la radiofréq
   {% endif %}
   {% endfor %}
 </ul>
+-->
+
+
+<!--
+I’m a researcher in medical imaging in a [CNRS](https://www.cnrs.fr/fr/page-daccueil) laboratory, the "Centre de Résonance Magnétique des Systèmes Biologiques" (Bordeaux, France).
+-->
+
+<!--
+Mots clés: Imagerie par résonance magnétique, Mesure de temperature non invasive, Thermoablation, Modèles numériques thermique, Dispositifs Médicaux.
 -->

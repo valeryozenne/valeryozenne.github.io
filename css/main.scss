@@ -18,6 +18,22 @@ $green:        #39ff6e;
 $green-dim:    #1a8c3a;
 $green-faint:  #0d3d1a;
 
+$blue:         #3a86ff;  // Bleu vif et lumineux
+$blue-dim:     #1a4d8c;  // Bleu atténué, plus profond
+$blue-faint:   #0d223d;  // Bleu très foncé, presque nuit
+
+$red:          #ff3a3a;   // Rouge vif et éclatant
+$red-dim:      #8c1a1a;   // Rouge atténué, bordeaux
+$red-faint:    #3d0d0d;   // Rouge très foncé, presque noir
+
+$white:        #ffffff;  // Blanc pur
+$white-dim:    #f0f0f0;  // Blanc cassé, légèrement grisâtre
+$white-faint:  #e0e0e0;  // Gris très clair, presque blanc
+
+$gold:         #ffd700;  // Or vif et éclatant
+$gold-dim:     #d4af37;  // Or atténué, plus doux
+$gold-faint:   #8c7a36;  // Or très foncé, presque bronze
+
 $cyan:         #00e5cc;
 $amber:        #f0a500;
 $red:          #ff4f4f;
@@ -311,7 +327,9 @@ h1 {
   gap: 8px;
 }
 
-.kw,
+
+
+.kwg,
 .tag {
   background: $green-faint;
   border: 1px solid $green-dim;
@@ -324,6 +342,57 @@ h1 {
   &::before {
     content: '#';
     color: $green-dim;
+    margin-right: 3px;
+  }
+}
+
+.kwr,
+.tag {
+  background: $red-faint;
+  border: 1px solid $red-dim;
+  color: $red;
+  padding: 3px 10px;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  border-radius: 2px;
+
+  &::before {
+    content: '#';
+    color: $red-dim;
+    margin-right: 3px;
+  }
+}
+
+.kwb,
+.tag {
+  background: $blue-faint;
+  border: 1px solid $blue-dim;
+  color: $blue;
+  padding: 3px 10px;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  border-radius: 2px;
+
+  &::before {
+    content: '#';
+    color: $blue-dim;
+    margin-right: 3px;
+  }
+}
+
+.kww,
+.tag {
+  background: $bg;
+  border: 1px solid $white-dim;
+  color: $white;
+  padding: 3px 10px;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  border-radius: 2px;
+
+  &::before {
+    content: '#';
+    color: $white-dim;
     margin-right: 3px;
   }
 }
