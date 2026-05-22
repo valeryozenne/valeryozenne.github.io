@@ -5,4 +5,5 @@ title: "Manon Deslides is joining the SMART-HEAT projet"
 date: 2025-08-01
 categories: news
 ---
-Karoline Honorato Araujo is doing her master 1 internship over the summer 2025 season. She will develop deep-learning segmentation methods for abdominal imaging. We welcome her to Bordeaux.
+
+Dr. Manon Deslides is joining the [SMART-HEAT](https://anr.fr/Projet-ANR-24-CE92-0073) project. We welcome her in the Team.

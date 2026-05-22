@@ -13,3 +13,6 @@ The biannual conference of the European Society for Magnetic Resonance in Medici
 - Magnetic resonance thermometry validation of bioheat transfer model for lesion size prediction in liver tumor microwave ablation procedures by Nino Avetikovi.
 - by Dr. Manon Desclides.
 - A subvoxel correction of boiling-induced susceptibility artifacts in magnetic resonance thermometry and dosimetry for monitoring microwave thermoablation presented by myself. PG262
+
+This work was supported by [SMART-HEAT](https://anr.fr/Projet-ANR-24-CE92-0073)
+This work has received financial support from the CNRS through the MITI interdisciplinary programs under its exploratory research program under the project [CHAUPATAT].
