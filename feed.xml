@@ -5,9 +5,60 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>https://valeryozenne.github.io/</link>
     <atom:link href="https://valeryozenne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Apr 2026 22:36:07 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2026 22:36:07 +0200</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2026 12:28:41 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:28:41 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Eya Ben Amor is joining the team</title>
+        <description>&lt;p&gt;Eya Ben Amor is doing her master 2 internship over the spring-summer 2026 season at CRMSB. In collaboration with I2M (Bordeaux) and LMU (Munich), she will develop new workflow and image processing tools for the creation of thermal numerical models for the treatment of liver tumors. We welcome her to Bordeaux.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 May 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/05/18/Welcome-Eya-Ben-Amor.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/05/18/Welcome-Eya-Ben-Amor.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>The team is presenting one abstracts at EUROMIT2026</title>
+        <description>&lt;p&gt;Gwendal Durand-Chatton is presenting his work with Prism and Mitovsac &lt;a href=&quot;https://www.euromit2026.eu/&quot;&gt;EULITT2026&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The mitochondrial TRPV1 receptor: a therapeutical target for heatstroke management? by Gwendal Durand-Chatton.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This work was supported by &lt;a href=&quot;https://anr.fr/Projet-ANR-25-CE19-6299&quot;&gt;THERMOLYSE&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/04/20/EUROMIT2026-Conference.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/04/20/EUROMIT2026-Conference.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>The team is presenting one abstracts at EULITT2026</title>
+        <description>&lt;p&gt;Dr. Manon Desclides is presenting our work with CHU-LILLE and Onco-Thai at &lt;a href=&quot;https://eulitt2026.mcocongres.com/&quot;&gt;EULITT2026&lt;/a&gt; during the session “Oncology”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;14:51- 14:58 C10 Experimentally validated thermal digital twin for interstitial photodynamic therapy (iPDT): an ex vivo proof of concept. Manon Desclides.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 20 Apr 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/04/20/EULITT2026-Conference.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/04/20/EULITT2026-Conference.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>The team is presenting two abstracts at RITS2026</title>
@@ -21,10 +72,13 @@
     &lt;p&gt;Investigating the thermal effect of photodynamic therapy for glioblastoma treatment by Manon Desclides.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;This work was supported by &lt;a href=&quot;https://anr.fr/Projet-ANR-24-CE92-0073&quot;&gt;SMART-HEAT&lt;/a&gt;
+This work has received financial support from the CNRS through the MITI interdisciplinary programs under its exploratory research program under the project [CHAUPATAT].&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Apr 2026 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2026/04/20/RITS2026.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/04/20/RITS2026.html</guid>
+        <link>https://valeryozenne.github.io/news/2026/04/20/RITS2026-Conference.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/04/20/RITS2026-Conference.html</guid>
         
         
         <category>news</category>
@@ -48,7 +102,7 @@
     
       <item>
         <title>Hippolyte Salles is joining the team</title>
-        <description>&lt;p&gt;Hippolyte Salles is doing his master 2 internship over the spring-summer 2026 period at CRMSB. He will develop new segmentation algorithms and image processing tools for the creation of thermal numerical models for the treatment of liver tumors. We welcome him to Bordeaux.&lt;/p&gt;
+        <description>&lt;p&gt;Hippolyte Salles is doing his master 2 internship over the spring-summer 2026 season at CRMSB. He will develop new segmentation algorithms and image processing tools for the creation of thermal numerical models for the treatment of liver tumors. We welcome him to Bordeaux.&lt;/p&gt;
 </description>
         <pubDate>Mon, 13 Apr 2026 00:00:00 +0200</pubDate>
         <link>https://valeryozenne.github.io/news/2026/04/13/Welcome-Hippolyte-Salles.html</link>
@@ -93,7 +147,7 @@
     
       <item>
         <title>Charlotte Demeret is joining the team</title>
-        <description>&lt;p&gt;Charlotte Demeret is doing her master 2 internship over the spring-summer 2026 period at Liryc. In collaboration with Jairo Rodrigez Padilla (INRIA) and Julie Magat (Université de Bordeaux), she will develop new high-resolution MRI acquisition and image processing tools for the creation of new digital electrophysiology models for the treatment of cardiac arrhythmias. We welcome her to Bordeaux.&lt;/p&gt;
+        <description>&lt;p&gt;Charlotte Demeret is doing her master 2 internship over the spring-summer 2026 season at Liryc. In collaboration with Jairo Rodrigez Padilla (INRIA) and Julie Magat (Université de Bordeaux), she will develop new high-resolution MRI acquisition and image processing tools for the creation of new digital electrophysiology models for the treatment of cardiac arrhythmias. We welcome her to Bordeaux.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
         <link>https://valeryozenne.github.io/news/2026/02/23/Welcome-Charlotte-Demeret.html</link>
@@ -130,53 +184,6 @@
         <pubDate>Thu, 22 Jan 2026 00:00:00 +0100</pubDate>
         <link>https://valeryozenne.github.io/news/2026/01/22/Tracto-Club-Session.html</link>
         <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/01/22/Tracto-Club-Session.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Organising and Attending the 1st Low-Field MRI conference in Bordeaux</title>
-        <description>&lt;p&gt;The 1st International Conference on the Use of Low and Ultra-low Field MRI for Cohort Imaging in Neuroepidemiology is organised by my lab (the CRMSB) and the VBHI. This conference will be held in Bordeaux from 25 to 26 November 2025.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://lowfieldneuro25.sciencesconf.org/&quot;&gt;link to the conference website&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 25 Nov 2025 00:00:00 +0100</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/11/25/Low-Field-MRI-Conference.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/11/25/Low-Field-MRI-Conference.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Attending the ESRMRB conference in Marseille</title>
-        <description>&lt;p&gt;The biannual conference of the European Society for Magnetic Resonance in Medicine and Biology (ESMRMB). The bi-annual conference will be held in Marseille from 8 to 11 October 2025. The following five contributions will be presented:&lt;/p&gt;
-
-&lt;h2 id=&quot;-&quot;&gt;-&lt;/h2&gt;
-&lt;p&gt;-
--
--&lt;/p&gt;
-</description>
-        <pubDate>Sun, 05 Oct 2025 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/10/05/ESMRMB-Conference.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/10/05/ESMRMB-Conference.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Manon Deslides is joining the SMART-HEAT projet</title>
-        <description>&lt;p&gt;Karoline Honorato Araujo is doing her master 1 internship over the summer 2025 period. She will develop deep-learning segmentation methods for abdominal imaging. We welcome her to Bordeaux.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Aug 2025 00:00:00 +0200</pubDate>
-        <link>https://valeryozenne.github.io/news/2025/08/01/Welcome-Manon-Desclides.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2025/08/01/Welcome-Manon-Desclides.html</guid>
         
         
         <category>news</category>
