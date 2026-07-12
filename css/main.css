@@ -199,21 +199,21 @@ h1.hero-name, .page-title, h1 { font-size: 30px; font-weight: 700; color: #fff; 
 
 .section-header h2 { font-size: 15.3px; }
 
-.article-title { font-size: 18px; }
+.article-title { font-size: 19.8px; }
 
-.article-authors { font-size: 16.2px; }
+.article-authors { font-size: 18px; }
 
-.article-year { font-size: 15.3px; }
+.article-year { font-size: 17.1px; }
 
-.article-journal { font-size: 15.3px; }
+.article-journal { font-size: 17.1px; }
 
-.badge { font-size: 13.5px; }
+.badge { font-size: 15.3px; }
 
-.news-title { font-size: 18px; }
+.news-title { font-size: 19.8px; }
 
-.news-date { font-size: 15.3px; }
+.news-date { font-size: 18px; }
 
-.news-badge { font-size: 13.5px; }
+.news-badge { font-size: 15.3px; }
 
 @media (max-width: 700px) { .site-nav, .site-header nav { flex-direction: column; height: auto; padding: 0.8rem 1rem; gap: 0.8rem; }
   .site-nav ul, .nav-links { flex-wrap: wrap; gap: 0; }
