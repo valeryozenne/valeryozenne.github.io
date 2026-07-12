@@ -5,8 +5,9 @@ permalink: /news/
 ---
 
 
-# News (short version)
+# Les actualités (version courte)
 
+(la version détaillé se trouve en bas de cette page)
 
 <ul class="news-feed">
       {% assign news_posts = site.posts | where: "type", "news" %}
@@ -35,7 +36,7 @@ permalink: /news/
 </ul>
 
 
-# News (long version)
+# Les actualités (version détaillée)
 
 <ul class="post-list">
   {% for post in site.posts %}

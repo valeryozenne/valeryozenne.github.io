@@ -6,9 +6,7 @@ permalink: /resume/
 
 Accès direct à [mon contact](#contact), [au bureau](#office), [au second bureau](#alternative-office) et à [l'équipe](#team). [La bibliographie](#bibliography) inclut [les articles](#articles), [les chapitres de livres](#books), et [quelques conférences](#conferences).
 
-<!---
-[GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
--->
+<br>
 
 # Contact
 
@@ -34,12 +32,14 @@ Accès direct à [mon contact](#contact), [au bureau](#office), [au second burea
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
-# L'équipe {#team}
+ <br>
+
+# L'équipe et étudiant.es encadré.es {#team}
 
 ## Post-doctorants
 
-Mélanie Lagadec (2026-2027),
-Manon Desclides (2025-2027),  
+Mélanie Lagadec (2026-2027),   
+Manon Desclides (2025-2027),     
 Maxime Yon (2019-2021),
 
 ## Doctorants
@@ -72,12 +72,14 @@ Léa Pfeiffer (2019, ENSEIRB-MATMECA , Bordeaux),
 Alexis Vaussy (2015-2016, Télécom Physique Strasbourg, Strasbourg),  
 Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 
+ <br>
+
 # Poste actuel et précédents {#positions}
 
 2020-Today
 :   **Chargé de Recherche [CNRS](https://www.cnrs.fr/fr/page-daccueil)**,  
     Member of the [Centre de Résonance Magnétique des Systèmes Biologiques](https://www.rmsb.u-bordeaux.fr/fr/),  
-    Member of the Imaging Team,  
+    Member of the iMRT Team,  
     Topics: Interventional MRI,  
     *Project title: Technologies IRM pour l’imagerie interventionnelle et fonctionnelle*  
 
@@ -99,6 +101,8 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
     Member of the [Institut de Biologie Structurale](https://www.ibs.fr/),  
     Member of the Groupe Flexibilité et Dynamique des Protéines par RMN
 
+ <br>
+
 # Formation {#education}
 
 2009-2012:\
@@ -113,6 +117,8 @@ Formation à la physique fondamentale et introduction au thématique de recherch
 Diplôme d’Ingénieur Phelma, Institut National Polytechnique de Grenoble\
 Formation généraliste à dominante Physique et Science de l’Ingénieur pour les Nanotechnologies. [lien](https://phelma.grenoble-inp.fr/fr/l-ecole/ingenieur-en-micro-et-nanotechnologies)\
 
+ <br>
+
 # Bibliographie 
 
 <!---
@@ -125,22 +131,35 @@ Formation généraliste à dominante Physique et Science de l’Ingénieur pour 
 # Preprints
 
 -->
+ <br>
+
 # Les articles {#articles}
 
 {% bibliography --query @article[year>=2000] %}
+
+ <br>
 
 # Les livres {#books}
 
 {% bibliography --query @book[year>=2000] %}
 
+ <br>
+
 # Les conferences {#conferences}
 
 {% bibliography --query @inproceedings[year>=2000] %}
 
+ <br>
+
 # Les logiciels que je developpe
 
-* [Millefeuille]()  
+* [Millefeuille](https://github.com/valeryozenne/Millefeuille)  
   Medical Imaging - Python - Cardiac architecture    
+
+* [Simu2Exp]()  
+  Medical Imaging - Python - MR-Thermometry - Thermal Modelling
+
+ <br>  
 
 # Les logiciels que j'utilise
 

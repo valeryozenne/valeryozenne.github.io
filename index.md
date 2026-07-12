@@ -80,17 +80,6 @@ Mots clés:
 
 {% endfor %}
 
-# Latest articles
-
-{% bibliography --max 5 --sort %}
-
-# Selected articles
-{% bibliography --query @*[pages=2194595] %}
-{% bibliography --query @*[pages=116236] %}
-{% bibliography --query @*[volume=77]  %}
-{% bibliography --query @*[pages=78] %}
-{% bibliography --query @*[pages=H936--H952] %}
-
 # Latest News
 <ul class="post-list">
   {% for post in site.posts limit:2 %}
@@ -103,6 +92,18 @@ Mots clés:
   {% endif %}
   {% endfor %}
 </ul>
+
+
+# Latest articles
+
+{% bibliography --max 5 --sort %}
+
+# Selected articles
+{% bibliography --query @*[pages=2194595] %}
+{% bibliography --query @*[pages=116236] %}
+{% bibliography --query @*[volume=77]  %}
+{% bibliography --query @*[pages=78] %}
+{% bibliography --query @*[pages=H936--H952] %}
 
 <!---
 # News
