@@ -487,6 +487,16 @@ article.post-content img {
   }
 }
 
+
+.post-list {
+  list-style: none;
+  padding: 0;
+
+  li { font-size: $font-size; margin-bottom: 1.5rem; }
+  h4 { font-size: $font-size * 1.1; margin-bottom: 0.4rem; }
+  .post-meta { font-size: $font-size * 0.9; color: $text-dim; margin-left: 8px; }
+}
+
 // Méta (année, journal, badges)
 .article-meta {
   display: flex;
@@ -553,7 +563,7 @@ a[href*="PDF"] {
 // Titre de l'article
 .article-title,
 .post-title {
-  font-size: 14px;
+  font-size: $font-size;
   color: #d8e8d8;
   line-height: 1.6;
   font-weight: 400;

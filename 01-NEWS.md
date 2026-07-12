@@ -5,15 +5,15 @@ permalink: /news/
 ---
 
 
-# Les actualités (version courte)
+# Les actualités 
 
-(la version détaillé se trouve en bas de cette page)
+(cliquer sur le titre pour avoir plus d'information, parfois)
 
 <ul class="news-feed">
       {% assign news_posts = site.posts | where: "type", "news" %}
       {% for post in news_posts %}
       <li class="news-item">
-        <span class="news-date">{{ post.date | date: "%b %Y" }}</span>
+        <span class="news-date"><strong>{{ post.date | date: "%d %b %Y" }}</strong> </span>
         <span class="news-title">
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           {% assign title_down = post.title | downcase %}
@@ -35,7 +35,7 @@ permalink: /news/
       {% endfor %}
 </ul>
 
-
+<!---
 # Les actualités (version détaillée)
 
 <ul class="post-list">
@@ -49,7 +49,7 @@ permalink: /news/
   {% endif %}
   {% endfor %}
 </ul>
-
+-->
 
 <!---
 

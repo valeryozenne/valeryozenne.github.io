@@ -81,8 +81,9 @@ Mots clés:
 {% endfor %}
 
 # Latest News
+<br>
 <ul class="post-list">
-  {% for post in site.posts limit:2 %}
+  {% for post in site.posts limit:3 %}
   {% if post.type == "news" %}
   <li>
     <h4>{{ post.title }}
@@ -93,6 +94,11 @@ Mots clés:
   {% endfor %}
 </ul>
 
+<div class="paragraph-links">
+    <a href="{{ site.url }}/news/">En savoir plus →</a>
+</div>
+
+<br>
 
 # Latest articles
 
