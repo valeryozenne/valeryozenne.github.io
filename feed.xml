@@ -5,9 +5,48 @@
     <description>Reproducible Science is good.&lt;br/&gt; Replicated Science is better.</description>
     <link>https://valeryozenne.github.io/</link>
     <atom:link href="https://valeryozenne.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jun 2026 12:31:52 +0200</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2026 12:31:52 +0200</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 16:32:50 +0200</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:32:50 +0200</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Melanie Lagadec is joining the team</title>
+        <description>&lt;p&gt;Dr. Melanie Lagadec is joining the &lt;a href=&quot;https://anr.fr/Projet-ANR-25-CE19-6299&quot;&gt;THERMOLYSE&lt;/a&gt; project. We welcome her in the Team.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jun 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/06/16/Welcome-Melanie-Lagadec.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/06/16/Welcome-Melanie-Lagadec.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Organising the Journée SFT dedicated to in heat transfert modeling in Life Science</title>
+        <description>&lt;p&gt;Organising with Jean-Laurent Gardarein, Jean-luc Battaglia and Léa Penazi the “journée SFT” Société Française de Thermique dedicated to heat transfert modeling in life science &lt;a href=&quot;https://www.sft.asso.fr/sites/default/files/evenements/2026-06-16-Journee-SFT-Thermique-Sante.pdf&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jun 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/06/16/SFT-Day-Life-Science-and-Temperature.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/06/16/SFT-Day-Life-Science-and-Temperature.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Journée SFT dedicated to reduced model in heat transfert modeling</title>
+        <description>&lt;p&gt;The team (Nino, Manon, Ida, Mariana, Jean-Luc and myself) is attending at Paris the “journée SFT” Société Française de Thermique dedicated to inverse method in heat transfert modeling &lt;a href=&quot;https://www.sft.asso.fr/agenda/2026-06-11-mesures-thermiques-et-techniques-inverses-approches-originales-en-inversion&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2026 00:00:00 +0200</pubDate>
+        <link>https://valeryozenne.github.io/news/2026/06/11/SFT-Day-Reduction-Model.html</link>
+        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/06/11/SFT-Day-Reduction-Model.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Eya Ben Amor is joining the team</title>
@@ -139,51 +178,6 @@ This work has received financial support from the CNRS through the MITI interdis
         <pubDate>Sun, 01 Mar 2026 00:00:00 +0100</pubDate>
         <link>https://valeryozenne.github.io/news/2026/03/01/Pre-Release-Of-Software-Suite-MilleFeuille.html</link>
         <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/03/01/Pre-Release-Of-Software-Suite-MilleFeuille.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Charlotte Demeret is joining the team</title>
-        <description>&lt;p&gt;Charlotte Demeret is doing her master 2 internship over the spring-summer 2026 season at Liryc. In collaboration with Jairo Rodrigez Padilla (INRIA) and Julie Magat (Université de Bordeaux), she will develop new high-resolution MRI acquisition and image processing tools for the creation of new digital electrophysiology models for the treatment of cardiac arrhythmias. We welcome her to Bordeaux.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Feb 2026 00:00:00 +0100</pubDate>
-        <link>https://valeryozenne.github.io/news/2026/02/23/Welcome-Charlotte-Demeret.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/02/23/Welcome-Charlotte-Demeret.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>A blog article has been published in 'Le journal du CNRS' on our latest work.</title>
-        <description>&lt;p&gt;Our article ‘New analytical and hybrid heat transfer models for thermal ablation procedures validated by MRI thermometry’ has been accepted at International Journal of Hyperthermia. A related blog article has been published in ‘Le journal du CNRS’. Congratulation to the Smart-Heat team.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.insis.cnrs.fr/fr/cnrsinfo/mieux-controler-lablation-thermique-dune-tumeur&quot;&gt;link to the blog article&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 01 Feb 2026 00:00:00 +0100</pubDate>
-        <link>https://valeryozenne.github.io/news/2026/02/01/Actu-CNRS-Ingenierie.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/02/01/Actu-CNRS-Ingenierie.html</guid>
-        
-        
-        <category>news</category>
-        
-      </item>
-    
-      <item>
-        <title>Presenting at the TractAnat Club</title>
-        <description>&lt;p&gt;Presenting at the TractAnat Club, how cardiac cell structure influences MRI diffusion signals.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://lowfieldneuro25.sciencesconf.org/&quot;&gt;link to the youtube video&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 Jan 2026 00:00:00 +0100</pubDate>
-        <link>https://valeryozenne.github.io/news/2026/01/22/Tracto-Club-Session.html</link>
-        <guid isPermaLink="true">https://valeryozenne.github.io/news/2026/01/22/Tracto-Club-Session.html</guid>
         
         
         <category>news</category>
