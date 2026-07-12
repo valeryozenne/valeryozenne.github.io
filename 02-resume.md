@@ -1,17 +1,17 @@
 ---
 layout: page
-menutitle: RESUME
+menutitle: ~CV
 permalink: /resume/
 ---
 
-Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative office](#alternative-office)) and [Bibliography](#bibliography) ( [Books](#books), [Articles](#articles), [Conferences](#conferences)).
+Accès direct à [Contact](#contact), ([Le bureau](#le-bureau), [Le second bureau](#le-second bureau) and [La bibliographie](#la-bibliographie) ( [Les livres](#books), [Les articles](#articles), [Les conférences](#conferences)).
 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
 -->
 # Contact
 
-## Main office
+## Le bureau
 
 * [Centre de Résonance Magnétique des Systèmes Biologiques](https://www.rmsb.u-bordeaux.fr/fr/)  
   <small>
@@ -22,7 +22,7 @@ Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative 
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
-## Alternative office
+## Le second bureau
 
 * [LIRYC - L'institut des maladies du rythme cardiaque](https://www.ihu-liryc.fr/en/) 
   [The Electrophysiology and Heart Modelling Institute](https://www.ihu-liryc.fr/fr/)  
@@ -33,15 +33,15 @@ Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative 
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
-# Team
+# L'équipe(#pookie)
 
-## Post-doc students
+## Post-doctorants
 
 Mélanie Lagadec (2026-2027),
 Manon Desclides (2025-2027),  
 Maxime Yon (2019-2021),
 
-## PhD students
+## Doctorants
 
 Nino Avetikovi (2024-2027), co-supervision with Jean-Luc Battaglia,  
 Ida Burger (2024-2027), co-supervision with Jean-Luc Battaglia,  
@@ -49,7 +49,7 @@ Joao Magnus Bailuni de Bragança (2024-2025), co-supervision with Cesar Cunha Pa
 Eber Dantas (2024-2024), co-supervision with Helcio Orlande,    
 Pierre Cabanis (2021-2024)  
 
-## Interns
+## Stagiaire (L3,M1,M2)
 
 Mathilde Arnoud (2026, Université, Bordeaux),   
 Eya Ben Amor (2026, ENSEIRB-MATMECA , Bordeaux),   
@@ -71,7 +71,7 @@ Léa Pfeiffer (2019, ENSEIRB-MATMECA , Bordeaux),
 Alexis Vaussy (2015-2016, Télécom Physique Strasbourg, Strasbourg),  
 Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 
-# Professional history
+# Poste actuel et précédents
 
 2020-Today
 :   **Chargé de Recherche [CNRS](https://www.cnrs.fr/fr/page-daccueil)**,  
@@ -98,7 +98,7 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
     Member of the [Institut de Biologie Structurale](https://www.ibs.fr/),  
     Member of the Groupe Flexibilité et Dynamique des Protéines par RMN
 
-# Education
+# Formation
 
 2009-2012:\
 **PhD at [Université Joseph Fourier](https://www.univ-grenoble-alpes.fr/)** ,\
@@ -112,7 +112,7 @@ Formation à la physique fondamentale et introduction au thématique de recherch
 Diplôme d’Ingénieur Phelma, Institut National Polytechnique de Grenoble\
 Formation généraliste à dominante Physique et Science de l’Ingénieur pour les Nanotechnologies. [lien](https://phelma.grenoble-inp.fr/fr/l-ecole/ingenieur-en-micro-et-nanotechnologies)\
 
-# Bibliography
+# Bibliographie
 
 <!---
 # GitHub 
@@ -124,21 +124,25 @@ Formation généraliste à dominante Physique et Science de l’Ingénieur pour 
 # Preprints
 
 -->
-# Articles
+# Les articles
 
 {% bibliography --query @article[year>=2000] %}
 
-# Books
+# Les livres
 
 {% bibliography --query @book[year>=2000] %}
 
-# Conferences
+# Les conferences
 
 {% bibliography --query @inproceedings[year>=2000] %}
 
+# Les logiciels que je developpe
 
+* [Millefeuille]()  
+  Medical Imaging - Python - Cardiac architecture  
+  
 
-# Softwares I'm using
+# Les logiciels que j'utilise
 
 * [Gadgetron](http://gadgetron.github.io/)  
   Medical Imaging - Python, C/C++, Matlab  
@@ -159,9 +163,4 @@ Formation généraliste à dominante Physique et Science de l’Ingénieur pour 
 * [Dicomifier](https://github.com/lamyj/dicomifier)  
   Medical Imaging - C/C++  
   Documentation: [readthedocs.dicomifer](https://dicomifier.readthedocs.io/en/latest/)
-
-
-
-
-
 
