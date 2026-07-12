@@ -187,6 +187,34 @@ h1.hero-name, .page-title, h1 { font-size: 30px; font-weight: 700; color: #fff; 
 .status-dot--offline { background: #ff4f4f; }
 .status-dot--idle { background: #f0a500; }
 
+.hero-tag { font-size: 15.3px; }
+
+.hero-name { font-size: 36px; }
+
+.hero-title { font-size: 18px; }
+
+.hero-bio { font-size: 18px; }
+
+.kw { font-size: 15.3px; }
+
+.section-header h2 { font-size: 15.3px; }
+
+.article-title { font-size: 18px; }
+
+.article-authors { font-size: 16.2px; }
+
+.article-year { font-size: 15.3px; }
+
+.article-journal { font-size: 15.3px; }
+
+.badge { font-size: 13.5px; }
+
+.news-title { font-size: 18px; }
+
+.news-date { font-size: 15.3px; }
+
+.news-badge { font-size: 13.5px; }
+
 @media (max-width: 700px) { .site-nav, .site-header nav { flex-direction: column; height: auto; padding: 0.8rem 1rem; gap: 0.8rem; }
   .site-nav ul, .nav-links { flex-wrap: wrap; gap: 0; }
   .site-nav a, .nav-links a { font-size: 10px; padding: 0 10px; height: 36px; }
