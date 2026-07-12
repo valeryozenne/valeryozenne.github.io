@@ -87,6 +87,11 @@ h1.hero-name, .page-title, h1 { font-size: 30px; font-weight: 700; color: #fff; 
 .article-card:hover, .post-item:hover, .article-list > li:hover { border-color: #1a8c3a; }
 .article-card:hover::before, .post-item:hover::before, .article-list > li:hover::before { background: #39ff6e; }
 
+.post-list { list-style: none; padding: 0; }
+.post-list li { font-size: 18px; margin-bottom: 1.5rem; }
+.post-list h4 { font-size: 19.8px; margin-bottom: 0.4rem; }
+.post-list .post-meta { font-size: 16.2px; color: #5a7a5a; margin-left: 8px; }
+
 .article-meta { display: flex; gap: 10px; align-items: center; margin-bottom: 0.45rem; flex-wrap: wrap; }
 
 .article-year { font-size: 10px; color: #f0a500; letter-spacing: 0.06em; }
@@ -102,7 +107,7 @@ h1.hero-name, .page-title, h1 { font-size: 30px; font-weight: 700; color: #fff; 
 .article-authors { font-size: 13px; color: #5a7a5a; margin-bottom: 0.35rem; }
 .article-authors strong, .article-authors .author-self { color: #39ff6e; font-weight: 500; }
 
-.article-title, .post-title { font-size: 14px; color: #d8e8d8; line-height: 1.6; font-weight: 400; }
+.article-title, .post-title { font-size: 18px; color: #d8e8d8; line-height: 1.6; font-weight: 400; }
 
 .bibtex-block, pre.bibtex { display: none; margin-top: 0.9rem; background: #0a0e0a; border: 1px solid #1f3a1f; padding: 0.8rem 1rem; font-size: 11px; color: #5a7a5a; overflow-x: auto; line-height: 1.6; }
 .bibtex-block.visible, pre.bibtex.visible { display: block; }
