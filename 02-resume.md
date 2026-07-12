@@ -4,7 +4,7 @@ menutitle: ~CV
 permalink: /resume/
 ---
 
-Accès direct à [Contact](#contact), ([Le bureau](#le-bureau), [Le second bureau](#le-second bureau) and [La bibliographie](#la-bibliographie) ( [Les livres](#books), [Les articles](#articles), [Les conférences](#conferences)).
+Accès direct à [Contact](#contact), [Le bureau](#le-bureau), [Le second bureau](#alternative-office) and [La bibliographie](#bibliography), [Les livres](#books), [Les articles](#articles), [Les conférences](#conferences).
 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
@@ -22,7 +22,7 @@ Accès direct à [Contact](#contact), ([Le bureau](#le-bureau), [Le second burea
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
-## Le second bureau
+## Le second bureau {#alternative-office}
 
 * [LIRYC - L'institut des maladies du rythme cardiaque](https://www.ihu-liryc.fr/en/) 
   [The Electrophysiology and Heart Modelling Institute](https://www.ihu-liryc.fr/fr/)  
@@ -33,7 +33,7 @@ Accès direct à [Contact](#contact), ([Le bureau](#le-bureau), [Le second burea
   **Email**: prenom point nom at u-bordeaux point pays
   </small>
 
-# L'équipe(#pookie)
+# L'équipe {#team}
 
 ## Post-doctorants
 
