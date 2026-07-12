@@ -144,7 +144,7 @@ hr {
 // ------------------------------------------------------------
 
 .wrapper {
-  max-width: 960px;
+  max-width: 1050px;
   margin: 0 auto;
   padding: 0 2rem;
 }
@@ -162,12 +162,14 @@ nav {
   position: sticky;
   top: 0;
   z-index: 100;
+  margin-bottom: 3rem;
 }
 
 .site-nav,
 .site-header nav {
-  max-width: 960px;
+  max-width: 90vw;
   margin: 0 auto;
+  gap: 5 rem;
   padding: 0 2rem;
   height: 52px;
   display: flex;
@@ -178,7 +180,7 @@ nav {
 // Logo / nom du site
 .site-title,
 .nav-brand {
-  font-size: 14px;
+  font-size: $font-size;
   font-weight: 700;
   color: $green;
   letter-spacing: 0.04em;
@@ -212,13 +214,13 @@ nav {
   list-style: none;
   padding: 0;
   margin: 0;
-  gap: 0;
+  gap: 2; 
 }
 
 .site-nav a,
 .nav-links a {
   color: $text-dim;
-  font-size: 11px;
+  font-size: $font-size * 1.2;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   padding: 0 14px;
@@ -270,9 +272,10 @@ nav {
 }
 
 .hero-inner {
-  max-width: 960px;
+  max-width: 1050px;
   margin: 0 auto;
   position: relative;
+  width: 100%;
   z-index: 1;
 }
 
@@ -313,8 +316,8 @@ h1 {
 // Texte de présentation
 .hero-bio,
 .page-content > p:first-of-type {
-  max-width: 660px;
-  font-size: 13px;
+  max-width: 100%;
+  font-size: $font-size;
   color: $text;
   line-height: 1.85;
   margin-bottom: 2rem;
@@ -335,7 +338,7 @@ h1 {
   border: 1px solid $green-dim;
   color: $green;
   padding: 3px 10px;
-  font-size: 11px;
+  font-size: $font-size * 0.9;
   letter-spacing: 0.08em;
   border-radius: 2px;
 
@@ -352,7 +355,7 @@ h1 {
   border: 1px solid $red-dim;
   color: $red;
   padding: 3px 10px;
-  font-size: 11px;
+  font-size: $font-size * 0.9;
   letter-spacing: 0.08em;
   border-radius: 2px;
 
@@ -369,7 +372,7 @@ h1 {
   border: 1px solid $blue-dim;
   color: $blue;
   padding: 3px 10px;
-  font-size: 11px;
+  font-size: $font-size * 0.9;
   letter-spacing: 0.08em;
   border-radius: 2px;
 
@@ -386,7 +389,7 @@ h1 {
   border: 1px solid $white-dim;
   color: $white;
   padding: 3px 10px;
-  font-size: 11px;
+  font-size: $font-size * 0.9;
   letter-spacing: 0.08em;
   border-radius: 2px;
 
@@ -418,7 +421,7 @@ h2.section-title {
   }
 
   h2, span {
-    font-size: 11px;
+    font-size: $font-size * 1.4;
     font-weight: 500;
     letter-spacing: 0.15em;
     text-transform: uppercase;
@@ -446,6 +449,13 @@ ol.posts {
   list-style: none;
   padding: 0;
   margin: 0;
+}
+
+.post-content img,
+article.post-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 // Carte article
@@ -759,14 +769,14 @@ ul.news-list {
 // ------------------------------------------------------------
 
 .page-content {
-  max-width: 960px;
+  max-width: 1050px;
   margin: 0 auto;
   padding: 3rem 2rem;
 
   h1 { margin-bottom: 0.5rem; }
 
   h2 {
-    font-size: 14px;
+    font-size: $font-size * 1.4;
     font-weight: 500;
     letter-spacing: 0.12em;
     text-transform: uppercase;
@@ -830,7 +840,7 @@ ul.news-list {
 footer {
   border-top: 1px solid $border;
   padding: 1.5rem 2rem;
-  max-width: 960px;
+  max-width: 1050px;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -871,7 +881,7 @@ footer {
 // Status badge en ligne
 .status-dot {
   display: inline-block;
-  width: 6px; height: 6px;
+  width: $font-size * 0.5; height: $font-size * 0.5;
   border-radius: 50%;
   margin-right: 6px;
   vertical-align: middle;
@@ -904,6 +914,12 @@ footer {
 .news-date       { font-size: $font-size; }
 .news-badge      { font-size: $font-size * 0.85; }
 
+
+.page-content p,
+.post-content p,
+.hero-bio p {
+  text-align: justify;
+}
 
 // ------------------------------------------------------------
 // RESPONSIVE (mobile)
