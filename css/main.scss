@@ -882,6 +882,29 @@ footer {
 }
 
 
+// ============================================================
+// OVERRIDE TAILLES — PAGE INDEX
+// ============================================================
+
+.hero-tag        { font-size: $font-size * 0.85; }
+.hero-name       { font-size: $font-size * 2; }
+.hero-title      { font-size: $font-size; }
+.hero-bio        { font-size: $font-size; }
+.kw              { font-size: $font-size * 0.85; }
+
+.section-header h2 { font-size: $font-size * 0.85; }
+
+.article-title   { font-size: $font-size; }
+.article-authors { font-size: $font-size * 0.9; }
+.article-year    { font-size: $font-size * 0.85; }
+.article-journal { font-size: $font-size * 0.85; }
+.badge           { font-size: $font-size * 0.75; }
+
+.news-title      { font-size: $font-size; }
+.news-date       { font-size: $font-size * 0.85; }
+.news-badge      { font-size: $font-size * 0.75; }
+
+
 // ------------------------------------------------------------
 // RESPONSIVE (mobile)
 // ------------------------------------------------------------
