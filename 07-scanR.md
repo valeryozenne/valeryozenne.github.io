@@ -1,6 +1,6 @@
 ---
 layout: page
-menutitle: scanR
+menutitle: SCANR
 permalink: /scanr/
 ---
 
