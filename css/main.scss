@@ -894,15 +894,15 @@ footer {
 
 .section-header h2 { font-size: $font-size * 0.85; }
 
-.article-title   { font-size: $font-size; }
-.article-authors { font-size: $font-size * 0.9; }
-.article-year    { font-size: $font-size * 0.85; }
-.article-journal { font-size: $font-size * 0.85; }
-.badge           { font-size: $font-size * 0.75; }
+.article-title   { font-size: $font-size * 1.1; }
+.article-authors { font-size: $font-size; }
+.article-year    { font-size: $font-size * 0.95; }
+.article-journal { font-size: $font-size * 0.95; }
+.badge           { font-size: $font-size * 0.85; }
 
-.news-title      { font-size: $font-size; }
-.news-date       { font-size: $font-size * 0.85; }
-.news-badge      { font-size: $font-size * 0.75; }
+.news-title      { font-size: $font-size * 1.1; }
+.news-date       { font-size: $font-size; }
+.news-badge      { font-size: $font-size * 0.85; }
 
 
 // ------------------------------------------------------------
