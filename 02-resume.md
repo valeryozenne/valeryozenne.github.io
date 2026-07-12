@@ -37,7 +37,8 @@ Direct access to [Contact](#contact) ([Main office](#main-office), [Alternative 
 
 ## Post-doc students
 
-Manon Desclides (2025-2027),    
+Mélanie Lagadec (2026-2027),
+Manon Desclides (2025-2027),  
 Maxime Yon (2019-2021),
 
 ## PhD students
@@ -50,6 +51,10 @@ Pierre Cabanis (2021-2024)
 
 ## Interns
 
+Mathilde Arnoud (2026, Université, Bordeaux),   
+Eya Ben Amor (2026, ENSEIRB-MATMECA , Bordeaux),   
+Hippolyte Salles (2026, IMT Atlantique, Brest),   
+Charlotte Demeret (2026, Télécom Physique Strasbourg),   
 Léo Deloison (2025, Université, Bordeaux),   
 Shahsamit Abul (2025, Université, Bordeaux),   
 Clément Nadal (2025, Université, Bordeaux),   
