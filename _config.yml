@@ -7,6 +7,7 @@ baseurl: ""                           # the subpath of your site, e.g. /blog/
 url:     "https://valeryozenne.github.io" # the base hostname & protocol for your site
 twitter_username: ReScienceEds
 github_username:  valeryozenne
+scanr_username: https://scanr.enseignementsup-recherche.gouv.fr/authors/idref260919519
 
 # Build settings
 markdown: kramdown

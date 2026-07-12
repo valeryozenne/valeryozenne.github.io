@@ -4,14 +4,15 @@ menutitle: ~CV
 permalink: /resume/
 ---
 
-Accès direct à [mon contact](#contact), [au bureau](#le-bureau), [au second bureau](#alternative-office) and [la bibliographie](#bibliography), [aux livres](#books), [aux articles](#articles), et [aux conférences](#conferences).
+Accès direct à [mon contact](#contact), [au bureau](#office), [au second bureau](#alternative-office) et à [l'équipe](#team). [La bibliographie](#bibliography) inclut [les articles](#articles), [les chapitres de livres](#books), et [quelques conférences](#conferences).
 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
 -->
+
 # Contact
 
-## Le bureau
+## Le bureau {#office}
 
 * [Centre de Résonance Magnétique des Systèmes Biologiques](https://www.rmsb.u-bordeaux.fr/fr/)  
   <small>
@@ -71,7 +72,7 @@ Léa Pfeiffer (2019, ENSEIRB-MATMECA , Bordeaux),
 Alexis Vaussy (2015-2016, Télécom Physique Strasbourg, Strasbourg),  
 Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
 
-# Poste actuel et précédents
+# Poste actuel et précédents {#positions}
 
 2020-Today
 :   **Chargé de Recherche [CNRS](https://www.cnrs.fr/fr/page-daccueil)**,  
@@ -98,7 +99,7 @@ Thibaud Troadec (2016, ENSEIRB-MATMECA , Bordeaux),
     Member of the [Institut de Biologie Structurale](https://www.ibs.fr/),  
     Member of the Groupe Flexibilité et Dynamique des Protéines par RMN
 
-# Formation
+# Formation {#education}
 
 2009-2012:\
 **PhD at [Université Joseph Fourier](https://www.univ-grenoble-alpes.fr/)** ,\
@@ -112,7 +113,7 @@ Formation à la physique fondamentale et introduction au thématique de recherch
 Diplôme d’Ingénieur Phelma, Institut National Polytechnique de Grenoble\
 Formation généraliste à dominante Physique et Science de l’Ingénieur pour les Nanotechnologies. [lien](https://phelma.grenoble-inp.fr/fr/l-ecole/ingenieur-en-micro-et-nanotechnologies)\
 
-# Bibliographie
+# Bibliographie 
 
 <!---
 # GitHub 
@@ -124,23 +125,22 @@ Formation généraliste à dominante Physique et Science de l’Ingénieur pour 
 # Preprints
 
 -->
-# Les articles
+# Les articles {#article}
 
 {% bibliography --query @article[year>=2000] %}
 
-# Les livres
+# Les livres {#books}
 
 {% bibliography --query @book[year>=2000] %}
 
-# Les conferences
+# Les conferences {#conferences}
 
 {% bibliography --query @inproceedings[year>=2000] %}
 
 # Les logiciels que je developpe
 
 * [Millefeuille]()  
-  Medical Imaging - Python - Cardiac architecture  
-  
+  Medical Imaging - Python - Cardiac architecture    
 
 # Les logiciels que j'utilise
 
