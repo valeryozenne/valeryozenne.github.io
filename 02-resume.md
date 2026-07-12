@@ -4,7 +4,7 @@ menutitle: ~CV
 permalink: /resume/
 ---
 
-Accès direct à [Contact](#contact), [Le bureau](#le-bureau), [Le second bureau](#alternative-office) and [La bibliographie](#bibliography), [Les livres](#books), [Les articles](#articles), [Les conférences](#conferences).
+Accès direct à [mon contact](#contact), [au bureau](#le-bureau), [au second bureau](#alternative-office) and [la bibliographie](#bibliography), [aux livres](#books), [aux articles](#articles), et [aux conférences](#conferences).
 
 <!---
 [GitHub](#github), [Calls](#calls), [Highlights](#highlights), [PrePrints](#preprints),
