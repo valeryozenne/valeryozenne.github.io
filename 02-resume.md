@@ -125,7 +125,7 @@ Formation généraliste à dominante Physique et Science de l’Ingénieur pour 
 # Preprints
 
 -->
-# Les articles {#article}
+# Les articles {#articles}
 
 {% bibliography --query @article[year>=2000] %}
 
